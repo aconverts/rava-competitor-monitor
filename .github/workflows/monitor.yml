@@ -57,6 +57,7 @@ jobs:
         run: |
           git config user.name "competitor-monitor"
           git config user.email "competitor-monitor@users.noreply.github.com"
-          git add data reports changes.csv 2>/dev/null || true
+          git add -A data reports
+          if [ -f changes.csv ]; then git add changes.csv; fi
           git diff --cached --quiet || git commit -m "Monitor run $(date -u +%Y-%m-%d_%H%M)"
           git push
