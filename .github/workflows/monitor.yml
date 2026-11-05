@@ -14,6 +14,7 @@ on:
         options:
           - check
           - test-alerts
+          - export-rava
 
 permissions:
   contents: write
@@ -48,8 +49,12 @@ jobs:
         if: ${{ github.event.inputs.mode == 'test-alerts' }}
         run: python monitor.py --test-alerts
 
+      - name: Export RAVA catalog
+        if: ${{ github.event.inputs.mode == 'export-rava' }}
+        run: python gap.py
+
       - name: Run monitor
-        if: ${{ github.event.inputs.mode != 'test-alerts' }}
+        if: ${{ github.event.inputs.mode != 'test-alerts' && github.event.inputs.mode != 'export-rava' }}
         run: python monitor.py
 
       - name: Save snapshots and reports
