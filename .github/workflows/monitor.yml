@@ -1,0 +1,62 @@
+name: Competitor monitor
+
+on:
+  schedule:
+    # 04:07 and 14:07 UTC = 6am and 4pm Beirut in winter (7am / 5pm in summer)
+    - cron: "7 4 * * *"
+    - cron: "7 14 * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "What to run"
+        type: choice
+        default: check
+        options:
+          - check
+          - test-alerts
+
+permissions:
+  contents: write
+
+concurrency:
+  group: competitor-monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      SMTP_HOST: ${{ secrets.SMTP_HOST }}
+      SMTP_PORT: ${{ secrets.SMTP_PORT }}
+      SMTP_USER: ${{ secrets.SMTP_USER }}
+      SMTP_PASS: ${{ secrets.SMTP_PASS }}
+      EMAIL_TO: ${{ secrets.EMAIL_TO }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Test alerts
+        if: ${{ github.event.inputs.mode == 'test-alerts' }}
+        run: python monitor.py --test-alerts
+
+      - name: Run monitor
+        if: ${{ github.event.inputs.mode != 'test-alerts' }}
+        run: python monitor.py
+
+      - name: Save snapshots and reports
+        if: always()
+        run: |
+          git config user.name "competitor-monitor"
+          git config user.email "competitor-monitor@users.noreply.github.com"
+          git add data reports changes.csv 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "Monitor run $(date -u +%Y-%m-%d_%H%M)"
+          git push

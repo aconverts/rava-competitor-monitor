@@ -1,0 +1,67 @@
+# Competitor monitor config
+# Add or remove stores here. Any Shopify store works (including ravaperfumes.com
+# if you want your own prices in the same log for side-by-side comparison).
+
+sites:
+  - key: alchemi
+    name: Alchemi
+    url: https://thisisalchemi.com
+    # Collections whose membership/order we track (handles from the URL /collections/<handle>)
+    collections:
+      - new-arrivals
+      - best-sellers
+      - niche-perfumes
+      - shop-all
+    # Pages whose visible text we track (offers, announcement bar, banners, copy)
+    pages:
+      - /
+      - /pages/quiz
+      - /policies/refund-policy
+
+  - key: khaial
+    name: Khaial Perfumes
+    url: https://khaialperfumes.com
+    collections:
+      - all-perfumes
+      - private-collection
+      - bundles-sets
+      - home-sprays-1
+      - body-splash
+    pages:
+      - /
+      - /pages/about
+
+alerts:
+  # Everyone here gets the email alert
+  email_to:
+    - alexthedeveloperr@gmail.com
+    - ali23harkous@gmail.com
+  # Telegram usernames (without @). Each person must open the bot once and press
+  # Start; the monitor then finds their chat automatically and remembers it.
+  telegram_usernames:
+    - usernamedexg
+  # Optional: numeric chat ids (e.g. a team group). Usually leave empty.
+  telegram_chat_ids: []
+
+settings:
+  # Ignore price moves smaller than this (in store currency) to avoid rounding noise
+  min_price_change: 0.01
+  # How many positions of a ranked collection (e.g. best-sellers) to watch for reordering
+  rank_watch_top: 10
+  # Send a message even when nothing changed (useful to confirm it is alive)
+  notify_when_no_changes: false
+  # Safety: if a store suddenly returns fewer than this share of its previous
+  # product count, treat it as a failed fetch and do NOT report mass removals
+  min_product_ratio: 0.5
+  # Page text lines matching any of these regexes are ignored (timers, prices, cart noise)
+  ignore_line_patterns:
+    - '^\W*$'
+    - '^[\d\s:.,$~%-]+$'
+    - '^(Regular|Sale|Unit) price'
+    - '^From \$'
+    - '^\$\d'
+    - 'Your (cart|shopping bag) is empty'
+    - '^Loading'
+    - '^Cart( •)? ?\d+'
+    - '^Subtotal'
+    - 'away from \d+% OFF'
