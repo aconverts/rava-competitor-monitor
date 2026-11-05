@@ -502,6 +502,13 @@ def resolve_telegram_chats(token: str, alerts: dict) -> list[str]:
     if any(u not in cache for u in wanted):
         try:
             r = requests.get(f"https://api.telegram.org/bot{token}/getUpdates", timeout=30).json()
+            if not r.get("ok"):
+                print(f"Telegram getUpdates error: {r.get('description')}", file=sys.stderr)
+            me = requests.get(f"https://api.telegram.org/bot{token}/getMe", timeout=30).json()
+            print(f"Telegram bot: @{(me.get('result') or {}).get('username')}")
+            seen = {((u.get('message') or u.get('my_chat_member') or {}).get('from') or {}).get('username')
+                    for u in r.get("result", [])}
+            print(f"Telegram: accounts that recently messaged the bot: {sorted(str(s) for s in seen) or 'none'}")
             for upd in r.get("result", []):
                 msg = upd.get("message") or upd.get("my_chat_member") or {}
                 chat, sender = msg.get("chat") or {}, msg.get("from") or {}
