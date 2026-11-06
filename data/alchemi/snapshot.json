@@ -45,7 +45,7 @@
    "title": "Women's Section"
   }
  },
- "fetched_at": "2026-11-05T21:02:40+00:00",
+ "fetched_at": "2026-11-06T11:59:30+00:00",
  "pages": {
   "/": {
    "images": [
@@ -8119,14 +8119,14 @@
    "url": "https://thisisalchemi.com/products/nautica-voyage",
    "variants": {
     "100ml": {
-     "available": false,
+     "available": true,
      "compare_at": null,
      "price": 24.99,
      "sku": "200299",
      "title": "100 mL"
     },
     "50ml": {
-     "available": false,
+     "available": true,
      "compare_at": null,
      "price": 17.99,
      "sku": "300299",
