@@ -45,7 +45,7 @@
    "title": "WOMEN'S PERFUMES"
   }
  },
- "fetched_at": "2026-11-07T10:59:09+00:00",
+ "fetched_at": "2026-11-07T18:42:35+00:00",
  "pages": {
   "/": {
    "images": [
@@ -1635,7 +1635,7 @@
    "url": "https://khaialperfumes.com/products/stronger-with-you-absolutely",
    "variants": {
     "120ml": {
-     "available": true,
+     "available": false,
      "compare_at": null,
      "price": 24.99,
      "sku": "",
@@ -2926,8 +2926,8 @@
    "azzaro-chrome",
    "coco-mademoiselle",
    "si",
-   "acqua-di-gio",
    "allure-homme-sport",
+   "acqua-di-gio",
    "jadore",
    "ombre-nomade",
    "delina-exclusif-parfums-de-marly",
@@ -2973,8 +2973,8 @@
    "tom-ford-lost-cherry",
    "light-blue-for-men",
    "idole-lancome",
-   "tom-ford-noir-extreme",
    "bvlgari-man-in-black",
+   "tom-ford-noir-extreme",
    "armani-code",
    "light-blue-for-women",
    "dolce-gabbana-king",

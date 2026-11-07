@@ -1,16 +1,19 @@
 # Competitor monitor report
-Run: 2026-11-07 10:58 UTC
+Run: 2026-11-07 18:42 UTC
 
 ## Alchemi (https://thisisalchemi.com)
-Products live: 399 | Changes: 0
+Products live: 399 | Changes: 4
 
-No changes since last run.
+### Stock changes (2)
+- **Libre Yves Saint Laurent** | 100ml: SOLD OUT | `in stock` → `sold out` ([link](https://thisisalchemi.com/products/yves-saint-laurent-libre))
+- **Libre Yves Saint Laurent** | 50ml: SOLD OUT | `in stock` → `sold out` ([link](https://thisisalchemi.com/products/yves-saint-laurent-libre))
+
+### Website text changes (2)
+- **/pages/quiz** | Text removed | `Libre Yves Saint Laurent` → `-` ([link](https://thisisalchemi.com/pages/quiz))
+- **/policies/refund-policy** | Text removed | `Libre Yves Saint Laurent` → `-` ([link](https://thisisalchemi.com/policies/refund-policy))
 
 ## Khaial Perfumes (https://khaialperfumes.com)
-Products live: 110 | Changes: 2
+Products live: 110 | Changes: 1
 
-### New products (1)
-- **Le Beau** | $24.99 | sizes: 100ml | type: For Him | published: 2026-11-07 ([link](https://khaialperfumes.com/products/le-beau))
-
-### Collections (1)
-- **all-perfumes** | Added to collection: Le Beau ([link](https://khaialperfumes.com/collections/all-perfumes))
+### Stock changes (1)
+- **Stronger With You Absolutely** | 120ml: SOLD OUT | `in stock` → `sold out` ([link](https://khaialperfumes.com/products/stronger-with-you-absolutely))
