@@ -45,7 +45,7 @@
    "title": "WOMEN'S PERFUMES"
   }
  },
- "fetched_at": "2026-11-06T20:25:24+00:00",
+ "fetched_at": "2026-11-07T10:59:09+00:00",
  "pages": {
   "/": {
    "images": [
@@ -1112,6 +1112,30 @@
      "price": 24.99,
      "sku": "",
      "title": "120ml"
+    }
+   },
+   "vendor": "Khaial Perfumes"
+  },
+  "8074925899945": {
+   "created_at": "2024-05-03T03:39:30+03:00",
+   "description": "Top Note: Bergamot Middle Note: Coconut Base Note: Tonka Bean",
+   "handle": "le-beau",
+   "id": "8074925899945",
+   "images": [
+    "/s/files/1/0653/7999/1721/files/LeBeau.png"
+   ],
+   "published_at": "2026-11-07T12:36:47+02:00",
+   "tags": [],
+   "title": "Le Beau",
+   "type": "For Him",
+   "url": "https://khaialperfumes.com/products/le-beau",
+   "variants": {
+    "100ml": {
+     "available": true,
+     "compare_at": null,
+     "price": 24.99,
+     "sku": "",
+     "title": "100ml"
     }
    },
    "vendor": "Khaial Perfumes"
@@ -2923,6 +2947,7 @@
    "stronger-with-you-absolutely",
    "scandal",
    "chanel-n-5",
+   "le-beau",
    "si-passione",
    "nishane-hacivat",
    "eilish-billie-eilish",
