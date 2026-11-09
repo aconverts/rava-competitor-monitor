@@ -45,7 +45,7 @@
    "title": "Women's Section"
   }
  },
- "fetched_at": "2026-11-09T12:44:48+00:00",
+ "fetched_at": "2026-11-09T23:25:00+00:00",
  "pages": {
   "/": {
    "images": [
@@ -5324,14 +5324,14 @@
    "url": "https://thisisalchemi.com/products/armani-code-absolu",
    "variants": {
     "100ml": {
-     "available": true,
+     "available": false,
      "compare_at": null,
      "price": 24.99,
      "sku": "200040",
      "title": "100 mL"
     },
     "50ml": {
-     "available": true,
+     "available": false,
      "compare_at": null,
      "price": 17.99,
      "sku": "300040",
