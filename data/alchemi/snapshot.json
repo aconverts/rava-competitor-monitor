@@ -45,7 +45,7 @@
    "title": "Women's Section"
   }
  },
- "fetched_at": "2026-11-10T12:29:19+00:00",
+ "fetched_at": "2026-11-10T20:46:38+00:00",
  "pages": {
   "/": {
    "images": [
@@ -5246,14 +5246,14 @@
    "url": "https://thisisalchemi.com/products/the-scent-for-her-boss",
    "variants": {
     "100ml": {
-     "available": true,
+     "available": false,
      "compare_at": null,
      "price": 24.99,
      "sku": "200392",
      "title": "100 ml"
     },
     "50ml": {
-     "available": true,
+     "available": false,
      "compare_at": null,
      "price": 17.99,
      "sku": "300392",
