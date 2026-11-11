@@ -1,11 +1,11 @@
 {
  "collections": {
   "all": {
-   "products_count": 466,
+   "products_count": 470,
    "title": "Products"
   },
   "best-sellers": {
-   "products_count": 28,
+   "products_count": 29,
    "title": "Best Sellers"
   },
   "black-friday": {
@@ -13,27 +13,27 @@
    "title": "Black Friday"
   },
   "gift-boxes": {
-   "products_count": 2,
+   "products_count": 3,
    "title": "Gift Boxes"
   },
   "mens-section": {
-   "products_count": 275,
+   "products_count": 277,
    "title": "Men's Section"
   },
   "must-have": {
-   "products_count": 22,
+   "products_count": 25,
    "title": "Must Have!"
   },
   "new-arrivals": {
-   "products_count": 36,
+   "products_count": 40,
    "title": "New Arrivals"
   },
   "niche-perfumes": {
-   "products_count": 47,
+   "products_count": 48,
    "title": "Niche Perfumes"
   },
   "shop-all": {
-   "products_count": 466,
+   "products_count": 470,
    "title": "All Perfumes"
   },
   "unisex-section": {
@@ -41,11 +41,11 @@
    "title": "Unisex Section"
   },
   "womens-section": {
-   "products_count": 277,
+   "products_count": 279,
    "title": "Women's Section"
   }
  },
- "fetched_at": "2026-11-10T20:46:38+00:00",
+ "fetched_at": "2026-11-11T11:47:57+00:00",
  "pages": {
   "/": {
    "images": [
@@ -57,7 +57,6 @@
     "/cdn/shop/files/D21EF209-749B-4C2B-B3B1-0264E1E7CB5A.jpg",
     "/cdn/shop/files/AB683D4B-0E69-4A7E-AFB7-F75736ACF2E7.jpg",
     "/cdn/shop/files/B5691E08-BCA3-4CEB-BCE5-CC5C19629447.jpg",
-    "/cdn/shop/files/E1611BE2-6B3E-4E40-801C-571A4F7BE777.jpg",
     "/cdn/shop/files/6A8B4E6B-7B72-4F87-BF5D-C3532D7D51FA.jpg",
     "/cdn/shop/files/563BDFBB-CAF1-4668-868F-2FEC0CF6EFC4.jpg",
     "/cdn/shop/files/DE854186-BC40-4365-A01D-CC54C1AD2F3B.jpg",
@@ -76,6 +75,7 @@
     "/cdn/shop/files/6C864064-317A-47B1-9E04-F43B3862ED4A.jpg",
     "/cdn/shop/files/B3787409-9651-4BFF-AA86-EA07CB49AB99.jpg",
     "/cdn/shop/files/A77F5C02-4E27-4D4A-A629-F49441E1A23B.jpg",
+    "/cdn/shop/files/Untitleddesign_a6ae2b44-bdb0-4cbe-8c11-f098f283090f.jpg",
     "/cdn/shop/files/IMG_2766_2e8ed96e-6aca-49ec-9f31-19c1b080b66e.jpg",
     "/cdn/shop/files/IMG_2741.jpg",
     "/cdn/shop/files/IMG_8789.png",
@@ -114,6 +114,7 @@
     "/cdn/shop/files/84882B26-B56F-4FCE-ACF2-C7607543EF95.jpg",
     "/cdn/shop/files/BE4F4FF5-42C9-4B77-982A-3AC6B00AD09D.png",
     "/cdn/shop/files/309F8DBA-F3F2-48EE-8130-7CBE0BB9354D.jpg",
+    "/cdn/shop/files/E1611BE2-6B3E-4E40-801C-571A4F7BE777.jpg",
     "/cdn/shop/files/2B7DA2FC-088B-4131-881F-E4A6B45D6A33.png",
     "/cdn/shop/files/Alchemi_color_samples.png",
     "/cdn/shop/files/04aff54b-ce9c-4ff3-b252-d623eb9208a6.jpg",
@@ -155,7 +156,6 @@
     "Azzaro The Most Wanted Parfum",
     "Imagination Louis Vuitton",
     "Narciso Rodriguez For Her",
-    "Emporio Armani Stronger With You Intensely",
     "Coco Mademoiselle Chanel EDP",
     "La Vie Est Belle Lancome",
     "Oud Wood Tom Ford",
@@ -174,6 +174,7 @@
     "Invictus Paco Rabanne",
     "Twilly d’Hermes",
     "Alien Oud Thierry Mugler",
+    "Vanilla Diorama",
     "Check out",
     "Shop now",
     "Men",
@@ -215,6 +216,7 @@
     "Sauvage EDT",
     "Sold out",
     "Libre Yves Saint Laurent",
+    "Emporio Armani Stronger With You Intensely",
     "Can't",
     "decide?",
     "Answer 3 simple questions and discover your signature scent",
@@ -300,7 +302,6 @@
     "/cdn/shop/files/D21EF209-749B-4C2B-B3B1-0264E1E7CB5A.jpg",
     "/cdn/shop/files/AB683D4B-0E69-4A7E-AFB7-F75736ACF2E7.jpg",
     "/cdn/shop/files/B5691E08-BCA3-4CEB-BCE5-CC5C19629447.jpg",
-    "/cdn/shop/files/E1611BE2-6B3E-4E40-801C-571A4F7BE777.jpg",
     "/cdn/shop/files/6A8B4E6B-7B72-4F87-BF5D-C3532D7D51FA.jpg",
     "/cdn/shop/files/563BDFBB-CAF1-4668-868F-2FEC0CF6EFC4.jpg",
     "/cdn/shop/files/DE854186-BC40-4365-A01D-CC54C1AD2F3B.jpg",
@@ -319,6 +320,7 @@
     "/cdn/shop/files/6C864064-317A-47B1-9E04-F43B3862ED4A.jpg",
     "/cdn/shop/files/B3787409-9651-4BFF-AA86-EA07CB49AB99.jpg",
     "/cdn/shop/files/A77F5C02-4E27-4D4A-A629-F49441E1A23B.jpg",
+    "/cdn/shop/files/Untitleddesign_a6ae2b44-bdb0-4cbe-8c11-f098f283090f.jpg",
     "/cdn/shop/files/04aff54b-ce9c-4ff3-b252-d623eb9208a6.jpg",
     "/cdn/shop/files/Alchemi_color_samples.png",
     "/s/files/1/0898/4569/4765/files/wp_navy.png"
@@ -360,7 +362,6 @@
     "Azzaro The Most Wanted Parfum",
     "Imagination Louis Vuitton",
     "Narciso Rodriguez For Her",
-    "Emporio Armani Stronger With You Intensely",
     "Coco Mademoiselle Chanel EDP",
     "La Vie Est Belle Lancome",
     "Oud Wood Tom Ford",
@@ -379,6 +380,7 @@
     "Invictus Paco Rabanne",
     "Twilly d’Hermes",
     "Alien Oud Thierry Mugler",
+    "Vanilla Diorama",
     "Check out",
     "Find your perfect perfume",
     "Answer a few quick questions and discover the perfumes that fit your style best.",
@@ -450,7 +452,6 @@
     "/cdn/shop/files/D21EF209-749B-4C2B-B3B1-0264E1E7CB5A.jpg",
     "/cdn/shop/files/AB683D4B-0E69-4A7E-AFB7-F75736ACF2E7.jpg",
     "/cdn/shop/files/B5691E08-BCA3-4CEB-BCE5-CC5C19629447.jpg",
-    "/cdn/shop/files/E1611BE2-6B3E-4E40-801C-571A4F7BE777.jpg",
     "/cdn/shop/files/6A8B4E6B-7B72-4F87-BF5D-C3532D7D51FA.jpg",
     "/cdn/shop/files/563BDFBB-CAF1-4668-868F-2FEC0CF6EFC4.jpg",
     "/cdn/shop/files/DE854186-BC40-4365-A01D-CC54C1AD2F3B.jpg",
@@ -469,6 +470,7 @@
     "/cdn/shop/files/6C864064-317A-47B1-9E04-F43B3862ED4A.jpg",
     "/cdn/shop/files/B3787409-9651-4BFF-AA86-EA07CB49AB99.jpg",
     "/cdn/shop/files/A77F5C02-4E27-4D4A-A629-F49441E1A23B.jpg",
+    "/cdn/shop/files/Untitleddesign_a6ae2b44-bdb0-4cbe-8c11-f098f283090f.jpg",
     "/cdn/shop/files/04aff54b-ce9c-4ff3-b252-d623eb9208a6.jpg",
     "/cdn/shop/files/Alchemi_color_samples.png",
     "/s/files/1/0898/4569/4765/files/wp_navy.png"
@@ -510,7 +512,6 @@
     "Azzaro The Most Wanted Parfum",
     "Imagination Louis Vuitton",
     "Narciso Rodriguez For Her",
-    "Emporio Armani Stronger With You Intensely",
     "Coco Mademoiselle Chanel EDP",
     "La Vie Est Belle Lancome",
     "Oud Wood Tom Ford",
@@ -529,6 +530,7 @@
     "Invictus Paco Rabanne",
     "Twilly d’Hermes",
     "Alien Oud Thierry Mugler",
+    "Vanilla Diorama",
     "Check out",
     "Return / Exchange Policy",
     "We do not offer returns or exchanges on any purchases.",
@@ -2980,6 +2982,161 @@
    "title": "Sauvage Extrait",
    "type": "Men's Perfume",
    "url": "https://thisisalchemi.com/products/sauvage-extrait",
+   "variants": {
+    "100ml": {
+     "available": true,
+     "compare_at": null,
+     "price": 24.99,
+     "sku": "",
+     "title": "100 mL"
+    },
+    "50ml": {
+     "available": true,
+     "compare_at": null,
+     "price": 17.99,
+     "sku": "",
+     "title": "50 mL"
+    }
+   },
+   "vendor": "Alchemi"
+  },
+  "10442205528355": {
+   "created_at": "2026-11-11T06:13:43-05:00",
+   "description": "Top notes are Lavender, Clary Sage and Bergamot; middle notes are Saffron and Praline; base notes are Agarwood (Oud) and Cedar.",
+   "handle": "haltane",
+   "id": "10442205528355",
+   "images": [
+    "/s/files/1/0813/4000/6691/files/Untitleddesign4.jpg",
+    "/s/files/1/0813/4000/6691/files/Copy_of_2025_recap_Square_Pillow.png",
+    "/s/files/1/0813/4000/6691/files/IMG_2669.png",
+    "/s/files/1/0813/4000/6691/files/6548CF8A-2B1C-4871-A529-DE3AF4660BEF.jpg"
+   ],
+   "published_at": "2026-11-11T06:13:48-05:00",
+   "tags": [
+    "Bold",
+    "Men",
+    "Must Have!",
+    "giftbox"
+   ],
+   "title": "Haltane",
+   "type": "Men's Perfume",
+   "url": "https://thisisalchemi.com/products/haltane",
+   "variants": {
+    "100ml": {
+     "available": true,
+     "compare_at": null,
+     "price": 24.99,
+     "sku": "",
+     "title": "100 mL"
+    },
+    "50ml": {
+     "available": true,
+     "compare_at": null,
+     "price": 17.99,
+     "sku": "",
+     "title": "50 mL"
+    }
+   },
+   "vendor": "Parfums de Marly"
+  },
+  "10442225385763": {
+   "created_at": "2026-11-11T06:27:11-05:00",
+   "description": "Top note is Saffron; middle notes are Lavender and Chestnut; base notes are Sandalwood, Vanilla and Cedarwood.",
+   "handle": "stronger-with-you-sandalwood",
+   "id": "10442225385763",
+   "images": [
+    "/s/files/1/0813/4000/6691/files/Untitleddesign3_93413efc-cd89-404c-b2ca-16f47d2fa393.jpg",
+    "/s/files/1/0813/4000/6691/files/Copy_of_2025_recap_Square_Pillow.png",
+    "/s/files/1/0813/4000/6691/files/IMG_2669.png",
+    "/s/files/1/0813/4000/6691/files/6548CF8A-2B1C-4871-A529-DE3AF4660BEF.jpg"
+   ],
+   "published_at": "2026-11-11T06:27:32-05:00",
+   "tags": [
+    "Bold",
+    "Men",
+    "Woody"
+   ],
+   "title": "Stronger With You Sandalwood",
+   "type": "Men's Perfume",
+   "url": "https://thisisalchemi.com/products/stronger-with-you-sandalwood",
+   "variants": {
+    "100ml": {
+     "available": true,
+     "compare_at": null,
+     "price": 24.99,
+     "sku": "",
+     "title": "100 mL"
+    },
+    "50ml": {
+     "available": true,
+     "compare_at": null,
+     "price": 17.99,
+     "sku": "",
+     "title": "50 mL"
+    }
+   },
+   "vendor": "Alchemi"
+  },
+  "10442232070435": {
+   "created_at": "2026-11-11T06:30:43-05:00",
+   "description": "Top notes are Litchi, Black Currant, Bergamot and Lemon; middle notes are Rose and Peony; base notes are White Musk, Iso E Super, Cedar and Sandalwood.",
+   "handle": "aqua-allegoria-rosa-rossa",
+   "id": "10442232070435",
+   "images": [
+    "/s/files/1/0813/4000/6691/files/Untitleddesign2_5784fa7a-d147-44da-9d84-6278c475199f.jpg",
+    "/s/files/1/0813/4000/6691/files/Copy_of_2025_recap_Square_Pillow.png",
+    "/s/files/1/0813/4000/6691/files/IMG_2669.png",
+    "/s/files/1/0813/4000/6691/files/73B1414B-DDB0-4C2C-9613-E4EA46FA1445.jpg"
+   ],
+   "published_at": "2026-11-11T06:31:47-05:00",
+   "tags": [
+    "Bold",
+    "Floral",
+    "Gourmand",
+    "Must Have!",
+    "Women"
+   ],
+   "title": "Aqua Allegoria Rosa Rossa",
+   "type": "Women's Perfume",
+   "url": "https://thisisalchemi.com/products/aqua-allegoria-rosa-rossa",
+   "variants": {
+    "100ml": {
+     "available": true,
+     "compare_at": null,
+     "price": 34.99,
+     "sku": "",
+     "title": "100 mL"
+    },
+    "50ml": {
+     "available": true,
+     "compare_at": null,
+     "price": 24.99,
+     "sku": "",
+     "title": "50 mL"
+    }
+   },
+   "vendor": "Guerlain"
+  },
+  "10442236690723": {
+   "created_at": "2026-11-11T06:34:01-05:00",
+   "description": "Top notes are Orange, Pink Pepper and Lemon; middle notes are Rum, Cacao and Cardamom; base notes are Bourbon Vanilla, Sandalwood and Patchouli.",
+   "handle": "vanilla-diorama",
+   "id": "10442236690723",
+   "images": [
+    "/s/files/1/0813/4000/6691/files/Untitleddesign_a6ae2b44-bdb0-4cbe-8c11-f098f283090f.jpg",
+    "/s/files/1/0813/4000/6691/files/Copy_of_2025_recap_Square_Pillow.png",
+    "/s/files/1/0813/4000/6691/files/IMG_2669.png",
+    "/s/files/1/0813/4000/6691/files/DBFC27D1-2B49-413B-B016-0A64AECB6C3A.png"
+   ],
+   "published_at": "2026-11-11T06:35:45-05:00",
+   "tags": [
+    "Floral",
+    "Fresh",
+    "Women"
+   ],
+   "title": "Vanilla Diorama",
+   "type": "Women's Perfume",
+   "url": "https://thisisalchemi.com/products/vanilla-diorama",
    "variants": {
     "100ml": {
      "available": true,
@@ -8668,14 +8825,14 @@
    "url": "https://thisisalchemi.com/products/stronger-with-you-intensely-giorgio-armani",
    "variants": {
     "100ml": {
-     "available": true,
+     "available": false,
      "compare_at": null,
      "price": 24.99,
      "sku": "200142",
      "title": "100 mL"
     },
     "50ml": {
-     "available": true,
+     "available": false,
      "compare_at": null,
      "price": 17.99,
      "sku": "300142",
@@ -16463,7 +16620,8 @@
    "one-million-paco-rabanne",
    "invictus-paco-rabanne",
    "twilly-d-hermes",
-   "alien-oud-mugler"
+   "alien-oud-mugler",
+   "vanilla-diorama"
   ],
   "new-arrivals": [
    "bleu-de-chanel-lexclusif",
@@ -16501,6 +16659,10 @@
    "le-beau-narcisse",
    "love-hibiscus",
    "sauvage-extrait",
+   "vanilla-diorama",
+   "aqua-allegoria-rosa-rossa",
+   "stronger-with-you-sandalwood",
+   "haltane",
    "la-belle-paradise-garden"
   ],
   "niche-perfumes": [
@@ -16550,7 +16712,8 @@
    "alto-astral-byredo",
    "safran-secret-maison-crivelli",
    "b683-marc-antoine-barrois",
-   "nice-bergamote"
+   "nice-bergamote",
+   "aqua-allegoria-rosa-rossa"
   ],
   "shop-all": [
    "creed",
@@ -16955,6 +17118,10 @@
    "le-beau-narcisse",
    "love-hibiscus",
    "sauvage-extrait",
+   "vanilla-diorama",
+   "aqua-allegoria-rosa-rossa",
+   "stronger-with-you-sandalwood",
+   "haltane",
    "la-belle-paradise-garden"
   ]
  }
