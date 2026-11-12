@@ -45,7 +45,7 @@
    "title": "WOMEN'S PERFUMES"
   }
  },
- "fetched_at": "2026-11-11T21:19:59+00:00",
+ "fetched_at": "2026-11-12T12:32:52+00:00",
  "pages": {
   "/": {
    "images": [
@@ -579,7 +579,7 @@
    "url": "https://khaialperfumes.com/products/la-vie-est-belle",
    "variants": {
     "120ml": {
-     "available": true,
+     "available": false,
      "compare_at": null,
      "price": 24.99,
      "sku": "",
@@ -2968,8 +2968,8 @@
    "valentino-donna-born-in-roma",
    "kayali-boujee-marshmallow",
    "hugo-boss-bottled",
-   "tom-ford-ombre-leather",
    "acqua-di-gio-profondo",
+   "tom-ford-ombre-leather",
    "tom-ford-lost-cherry",
    "light-blue-for-men",
    "idole-lancome",
