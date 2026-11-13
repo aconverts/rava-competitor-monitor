@@ -45,7 +45,7 @@
    "title": "WOMEN'S PERFUMES"
   }
  },
- "fetched_at": "2026-11-13T12:04:39+00:00",
+ "fetched_at": "2026-11-13T20:52:40+00:00",
  "pages": {
   "/": {
    "images": [
@@ -579,7 +579,7 @@
    "url": "https://khaialperfumes.com/products/la-vie-est-belle",
    "variants": {
     "120ml": {
-     "available": false,
+     "available": true,
      "compare_at": null,
      "price": 24.99,
      "sku": "",
@@ -1635,7 +1635,7 @@
    "url": "https://khaialperfumes.com/products/stronger-with-you-absolutely",
    "variants": {
     "120ml": {
-     "available": false,
+     "available": true,
      "compare_at": null,
      "price": 24.99,
      "sku": "",
@@ -2953,19 +2953,19 @@
    "eilish-billie-eilish",
    "silver-mountain-water-creed",
    "cloud-pink",
+   "angels-share",
    "ultra-male",
    "erba-pura-xerjoff",
-   "angels-share",
    "devotion-dolce-gabbana",
    "imagination",
    "azzaro-the-most-wanted",
    "tom-ford-oud-wood",
-   "miss-dior",
    "valentino-uomo-born-in-roma",
-   "tom-ford-tobacco-vanille",
+   "miss-dior",
    "dior-homme-intense",
-   "prada-paradoxe",
+   "tom-ford-tobacco-vanille",
    "valentino-donna-born-in-roma",
+   "prada-paradoxe",
    "kayali-boujee-marshmallow",
    "hugo-boss-bottled",
    "acqua-di-gio-profondo",
