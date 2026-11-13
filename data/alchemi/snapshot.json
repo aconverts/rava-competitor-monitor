@@ -1,7 +1,7 @@
 {
  "collections": {
   "all": {
-   "products_count": 473,
+   "products_count": 476,
    "title": "Products"
   },
   "best-sellers": {
@@ -17,7 +17,7 @@
    "title": "Gift Boxes"
   },
   "mens-section": {
-   "products_count": 277,
+   "products_count": 279,
    "title": "Men's Section"
   },
   "must-have": {
@@ -37,15 +37,15 @@
    "title": "All Perfumes"
   },
   "unisex-section": {
-   "products_count": 114,
+   "products_count": 115,
    "title": "Unisex Section"
   },
   "womens-section": {
-   "products_count": 282,
+   "products_count": 284,
    "title": "Women's Section"
   }
  },
- "fetched_at": "2026-11-12T21:26:26+00:00",
+ "fetched_at": "2026-11-13T12:04:33+00:00",
  "pages": {
   "/": {
    "images": [
@@ -76,6 +76,7 @@
     "/cdn/shop/files/B3787409-9651-4BFF-AA86-EA07CB49AB99.jpg",
     "/cdn/shop/files/A77F5C02-4E27-4D4A-A629-F49441E1A23B.jpg",
     "/cdn/shop/files/Untitleddesign_a6ae2b44-bdb0-4cbe-8c11-f098f283090f.jpg",
+    "/cdn/shop/files/Untitleddesign_11b8a1ba-f8fe-4a13-80e2-2d0627a37968.jpg",
     "/cdn/shop/files/IMG_2766_2e8ed96e-6aca-49ec-9f31-19c1b080b66e.jpg",
     "/cdn/shop/files/IMG_2741.jpg",
     "/cdn/shop/files/IMG_8789.png",
@@ -175,6 +176,7 @@
     "Twilly d’Hermes",
     "Alien Oud Thierry Mugler",
     "Vanilla Diorama",
+    "Nomade",
     "Check out",
     "Shop now",
     "Men",
@@ -321,6 +323,7 @@
     "/cdn/shop/files/B3787409-9651-4BFF-AA86-EA07CB49AB99.jpg",
     "/cdn/shop/files/A77F5C02-4E27-4D4A-A629-F49441E1A23B.jpg",
     "/cdn/shop/files/Untitleddesign_a6ae2b44-bdb0-4cbe-8c11-f098f283090f.jpg",
+    "/cdn/shop/files/Untitleddesign_11b8a1ba-f8fe-4a13-80e2-2d0627a37968.jpg",
     "/cdn/shop/files/04aff54b-ce9c-4ff3-b252-d623eb9208a6.jpg",
     "/cdn/shop/files/Alchemi_color_samples.png",
     "/s/files/1/0898/4569/4765/files/wp_navy.png"
@@ -381,6 +384,7 @@
     "Twilly d’Hermes",
     "Alien Oud Thierry Mugler",
     "Vanilla Diorama",
+    "Nomade",
     "Check out",
     "Find your perfect perfume",
     "Answer a few quick questions and discover the perfumes that fit your style best.",
@@ -471,6 +475,7 @@
     "/cdn/shop/files/B3787409-9651-4BFF-AA86-EA07CB49AB99.jpg",
     "/cdn/shop/files/A77F5C02-4E27-4D4A-A629-F49441E1A23B.jpg",
     "/cdn/shop/files/Untitleddesign_a6ae2b44-bdb0-4cbe-8c11-f098f283090f.jpg",
+    "/cdn/shop/files/Untitleddesign_11b8a1ba-f8fe-4a13-80e2-2d0627a37968.jpg",
     "/cdn/shop/files/04aff54b-ce9c-4ff3-b252-d623eb9208a6.jpg",
     "/cdn/shop/files/Alchemi_color_samples.png",
     "/s/files/1/0898/4569/4765/files/wp_navy.png"
@@ -531,6 +536,7 @@
     "Twilly d’Hermes",
     "Alien Oud Thierry Mugler",
     "Vanilla Diorama",
+    "Nomade",
     "Check out",
     "Return / Exchange Policy",
     "We do not offer returns or exchanges on any purchases.",
@@ -3154,6 +3160,111 @@
     }
    },
    "vendor": "Alchemi"
+  },
+  "10444116558115": {
+   "created_at": "2026-11-12T05:41:53-05:00",
+   "description": "Top notes are Neroli, Pear, Bergamot, Grapefruit and Lemon; middle notes are Orange Blossom, Stephanotis, Rose, Peach and Black Currant; base notes are Musk, Cedar, Cashmirwood and Patchouli.",
+   "handle": "love-story",
+   "id": "10444116558115",
+   "images": [
+    "/s/files/1/0813/4000/6691/files/Untitleddesign5_4aae2bb0-29e1-4152-8495-a26505cae063.jpg",
+    "/s/files/1/0813/4000/6691/files/Copy_of_2025_recap_Square_Pillow.png",
+    "/s/files/1/0813/4000/6691/files/IMG_2669.png"
+   ],
+   "published_at": "2026-11-13T04:46:19-05:00",
+   "tags": [
+    "Fresh",
+    "Fruity",
+    "Women"
+   ],
+   "title": "Love Story",
+   "type": "Women's Perfume",
+   "url": "https://thisisalchemi.com/products/love-story",
+   "variants": {
+    "100ml": {
+     "available": true,
+     "compare_at": null,
+     "price": 24.99,
+     "sku": "",
+     "title": "100 mL"
+    },
+    "50ml": {
+     "available": true,
+     "compare_at": null,
+     "price": 17.99,
+     "sku": "",
+     "title": "50 mL"
+    }
+   },
+   "vendor": "Chloé"
+  },
+  "10444119638307": {
+   "created_at": "2026-11-12T05:45:41-05:00",
+   "description": "Top notes are Mirabelle, Bergamot, Lemon and Orange; middle notes are Freesia, Peach, Jasmine and Rose; base notes are Oakmoss, Patchouli, Amberwood, White Musk and Sandalwood.",
+   "handle": "nomade",
+   "id": "10444119638307",
+   "images": [
+    "/s/files/1/0813/4000/6691/files/Untitleddesign_11b8a1ba-f8fe-4a13-80e2-2d0627a37968.jpg",
+    "/s/files/1/0813/4000/6691/files/Copy_of_2025_recap_Square_Pillow.png",
+    "/s/files/1/0813/4000/6691/files/IMG_2669.png"
+   ],
+   "published_at": "2026-11-13T04:47:16-05:00",
+   "tags": [
+    "Bold",
+    "Fresh",
+    "Fruity",
+    "Must Have!"
+   ],
+   "title": "Nomade",
+   "type": "Women's Perfume",
+   "url": "https://thisisalchemi.com/products/nomade",
+   "variants": {
+    "100ml": {
+     "available": true,
+     "compare_at": null,
+     "price": null,
+     "sku": "",
+     "title": "100 mL"
+    },
+    "50ml": {
+     "available": true,
+     "compare_at": null,
+     "price": null,
+     "sku": "",
+     "title": "50 mL"
+    }
+   },
+   "vendor": "Chloé"
+  },
+  "10444119769379": {
+   "created_at": "2026-11-12T05:47:39-05:00",
+   "description": "Top notes are Pitahaya, Pineapple and Yellow Mandarin; middle notes are Frangipani, Red Peony, Orange Blossom, Rosyfolia, Jasmine Sambac and Pomarose; base notes are Vanilla, Patchouli, Ambrofix™ and Tonka Bean.",
+   "handle": "la-bomba",
+   "id": "10444119769379",
+   "images": [
+    "/s/files/1/0813/4000/6691/files/Untitleddesign6_ffd325da-5578-4842-8232-87049d8d9b9d.jpg",
+    "/s/files/1/0813/4000/6691/files/Copy_of_2025_recap_Square_Pillow.png",
+    "/s/files/1/0813/4000/6691/files/IMG_2669.png"
+   ],
+   "published_at": "2026-11-13T04:48:00-05:00",
+   "tags": [
+    "Bold",
+    "Fruity",
+    "Women"
+   ],
+   "title": "La Bomba",
+   "type": "Women's Perfume",
+   "url": "https://thisisalchemi.com/products/la-bomba",
+   "variants": {
+    "defaulttitle": {
+     "available": true,
+     "compare_at": null,
+     "price": null,
+     "sku": "",
+     "title": "Default Title"
+    }
+   },
+   "vendor": "Carolina Herrera"
   },
   "8844631507235": {
    "created_at": "2023-11-11T12:26:06-05:00",
@@ -14935,14 +15046,14 @@
    "url": "https://thisisalchemi.com/products/l-immensite-louis-vuitton",
    "variants": {
     "100ml": {
-     "available": true,
+     "available": false,
      "compare_at": null,
      "price": 24.99,
      "sku": "200449",
      "title": "100 mL"
     },
     "50ml": {
-     "available": true,
+     "available": false,
      "compare_at": null,
      "price": 17.99,
      "sku": "300449",
@@ -16621,7 +16732,8 @@
    "invictus-paco-rabanne",
    "twilly-d-hermes",
    "alien-oud-mugler",
-   "vanilla-diorama"
+   "vanilla-diorama",
+   "nomade"
   ],
   "new-arrivals": [
    "bleu-de-chanel-lexclusif",
@@ -16662,6 +16774,8 @@
    "vanilla-diorama",
    "stronger-with-you-sandalwood",
    "haltane",
+   "la-bomba",
+   "love-story",
    "aqua-allegoria-rosa-rossa",
    "la-belle-paradise-garden"
   ],
@@ -17121,6 +17235,9 @@
    "vanilla-diorama",
    "stronger-with-you-sandalwood",
    "haltane",
+   "la-bomba",
+   "nomade",
+   "love-story",
    "aqua-allegoria-rosa-rossa",
    "la-belle-paradise-garden"
   ]
