@@ -33,7 +33,7 @@
    "title": "Niche Perfumes"
   },
   "shop-all": {
-   "products_count": 482,
+   "products_count": 483,
    "title": "All Perfumes"
   },
   "unisex-section": {
@@ -45,7 +45,7 @@
    "title": "Women's Section"
   }
  },
- "fetched_at": "2026-11-13T20:52:35+00:00",
+ "fetched_at": "2026-11-14T11:22:33+00:00",
  "pages": {
   "/": {
    "images": [
@@ -77,10 +77,10 @@
     "/cdn/shop/files/A77F5C02-4E27-4D4A-A629-F49441E1A23B.jpg",
     "/cdn/shop/files/Untitleddesign_a6ae2b44-bdb0-4cbe-8c11-f098f283090f.jpg",
     "/cdn/shop/files/Untitleddesign_11b8a1ba-f8fe-4a13-80e2-2d0627a37968.jpg",
+    "/cdn/shop/files/IMG_3127.png",
+    "/cdn/shop/files/IMG_3129.png",
     "/cdn/shop/files/IMG_2766_2e8ed96e-6aca-49ec-9f31-19c1b080b66e.jpg",
     "/cdn/shop/files/IMG_2741.jpg",
-    "/cdn/shop/files/IMG_8789.png",
-    "/cdn/shop/files/IMG_9545.jpg",
     "/cdn/shop/files/ba70fc17-3701-4fae-8de9-0230ce7169d1.jpg",
     "/cdn/shop/files/fd40443d-ad61-408a-be4f-83cb990624c2.jpg",
     "/cdn/shop/files/9e3401b3-31ba-4c5d-b955-c2735ef2c7b8.jpg",
@@ -124,8 +124,9 @@
    "lines": [
     "Alchemi",
     "Skip to content",
-    "BUY 2 GET 15% OFF",
-    "BUY 3+ GET 20% OFF",
+    "BLACK FRIDAY LIVE",
+    "BUY 2 GET 20% OFF",
+    "BUY 3+ GET 25% OFF",
     "Menu",
     "Home",
     "New Arrivals",
@@ -142,8 +143,8 @@
     "All Perfumes",
     "You're",
     "percent_discount",
-    "15% OFF",
     "20% OFF",
+    "25% OFF",
     "You may also like",
     "Aventus Creed",
     "100 mL",
@@ -262,7 +263,7 @@
     "Built with Scent-DNA Technology",
     "100% Skin-Safe Ingredients",
     "BUY 3+ BOTTLES",
-    "GET 20% OFF",
+    "GET 25% OFF",
     "GET OFFER",
     "No thanks",
     "Enjoy your",
@@ -332,8 +333,9 @@
     "Quiz",
     "– Alchemi",
     "Skip to content",
-    "BUY 2 GET 15% OFF",
-    "BUY 3+ GET 20% OFF",
+    "BLACK FRIDAY LIVE",
+    "BUY 2 GET 20% OFF",
+    "BUY 3+ GET 25% OFF",
     "Menu",
     "Home",
     "New Arrivals",
@@ -350,8 +352,8 @@
     "All Perfumes",
     "You're",
     "percent_discount",
-    "15% OFF",
     "20% OFF",
+    "25% OFF",
     "You may also like",
     "Aventus Creed",
     "100 mL",
@@ -413,7 +415,7 @@
     "Retake Quiz",
     "View full details →",
     "BUY 3+ BOTTLES",
-    "GET 20% OFF",
+    "GET 25% OFF",
     "GET OFFER",
     "No thanks",
     "Enjoy your",
@@ -484,8 +486,9 @@
     "Refund policy",
     "– Alchemi",
     "Skip to content",
-    "BUY 2 GET 15% OFF",
-    "BUY 3+ GET 20% OFF",
+    "BLACK FRIDAY LIVE",
+    "BUY 2 GET 20% OFF",
+    "BUY 3+ GET 25% OFF",
     "Menu",
     "Home",
     "New Arrivals",
@@ -502,8 +505,8 @@
     "All Perfumes",
     "You're",
     "percent_discount",
-    "15% OFF",
     "20% OFF",
+    "25% OFF",
     "You may also like",
     "Aventus Creed",
     "100 mL",
@@ -563,7 +566,7 @@
     "Contact",
     "For any questions, feel free to reach out to us at:",
     "BUY 3+ BOTTLES",
-    "GET 20% OFF",
+    "GET 25% OFF",
     "GET OFFER",
     "No thanks",
     "Enjoy your",
@@ -3183,14 +3186,14 @@
     "100ml": {
      "available": true,
      "compare_at": null,
-     "price": null,
+     "price": 24.99,
      "sku": "",
      "title": "100 mL"
     },
     "50ml": {
      "available": true,
      "compare_at": null,
-     "price": null,
+     "price": 17.99,
      "sku": "",
      "title": "50 mL"
     }
@@ -3217,12 +3220,19 @@
    "type": "Women's Perfume",
    "url": "https://thisisalchemi.com/products/la-bomba",
    "variants": {
-    "defaulttitle": {
+    "100ml": {
      "available": true,
      "compare_at": null,
-     "price": null,
+     "price": 24.99,
      "sku": "",
-     "title": "Default Title"
+     "title": "100 mL"
+    },
+    "50ml": {
+     "available": true,
+     "compare_at": null,
+     "price": 17.99,
+     "sku": "",
+     "title": "50 mL"
     }
    },
    "vendor": "Carolina Herrera"
@@ -3250,14 +3260,14 @@
     "100ml": {
      "available": true,
      "compare_at": null,
-     "price": null,
+     "price": 24.99,
      "sku": "",
      "title": "100 mL"
     },
     "50ml": {
      "available": true,
      "compare_at": null,
-     "price": null,
+     "price": 17.99,
      "sku": "",
      "title": "50 mL"
     }
@@ -17567,6 +17577,7 @@
    "stronger-with-you-sandalwood",
    "vanilla-diorama",
    "haltane",
+   "premier-jour",
    "original-vetiver",
    "blue-jeans",
    "oud-for-greatness",
