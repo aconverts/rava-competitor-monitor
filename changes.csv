@@ -116,3 +116,5 @@ run_at_utc,site,category,product,detail,old,new,url
 2026-11-15T19:43:49+00:00,alchemi,Price changes,Aqua Allegoria Rosa Rossa,50 mL: DOWN -28.0%,$24.99,$17.99,https://thisisalchemi.com/products/aqua-allegoria-rosa-rossa
 2026-11-15T19:43:49+00:00,alchemi,Price changes,Aqua Allegoria Rosa Rossa,100 mL: DOWN -28.6%,$34.99,$24.99,https://thisisalchemi.com/products/aqua-allegoria-rosa-rossa
 2026-11-15T19:43:49+00:00,alchemi,Product renamed,Reflection Man,Renamed,Reflection man,Reflection Man,https://thisisalchemi.com/products/reflection-man
+2026-11-16T12:38:05+00:00,alchemi,Stock changes,Vanille Malika Chopard,100 mL: SOLD OUT,in stock,sold out,https://thisisalchemi.com/products/vanille-malika-chopard
+2026-11-16T12:38:05+00:00,alchemi,Stock changes,Vanille Malika Chopard,50 mL: SOLD OUT,in stock,sold out,https://thisisalchemi.com/products/vanille-malika-chopard
