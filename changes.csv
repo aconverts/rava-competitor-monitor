@@ -165,3 +165,309 @@ run_at_utc,site,category,product,detail,old,new,url
 2026-11-16T23:21:49+00:00,alchemi,Website text changes,/pages/quiz,Text removed,La Vie Est Belle Lancome,,https://thisisalchemi.com/pages/quiz
 2026-11-16T23:21:49+00:00,alchemi,Website text changes,/policies/refund-policy,Text added,,La Vie Est Belle,https://thisisalchemi.com/policies/refund-policy
 2026-11-16T23:21:49+00:00,alchemi,Website text changes,/policies/refund-policy,Text removed,La Vie Est Belle Lancome,,https://thisisalchemi.com/policies/refund-policy
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,All Of Me,Renamed,All Of Me Narciso Rodriguez,All Of Me,https://thisisalchemi.com/products/all-of-me-narciso-rodriguez
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Stellar Times,Renamed,Stellar Times Louis Vuitton,Stellar Times,https://thisisalchemi.com/products/stellar-times-louis-vuitton
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Because It’s You,Renamed,Emporio Armani Because It’s You,Because It’s You,https://thisisalchemi.com/products/emporio-armani-because-it-s-you
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Fucking Fabulous,Renamed,Fucking Fabulous Tom Ford,Fucking Fabulous,https://thisisalchemi.com/products/fucking-fabulous-tom-ford
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Green Irish Tweed,Renamed,Creed Green Irish Tweed,Green Irish Tweed,https://thisisalchemi.com/products/creed-green-irish-tweed
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Blue Seduction,Renamed,Blue Seduction Antonio Banderas,Blue Seduction,https://thisisalchemi.com/products/blue-seduction-antonio-banderas
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Blue Label Pour Homme,Renamed,Blue Label Givenchy Pour Homme,Blue Label Pour Homme,https://thisisalchemi.com/products/blue-label-givenchy
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Musc Noir Rose For Her,Renamed,Musc Noir Rose For Her Narciso Rodriguez,Musc Noir Rose For Her,https://thisisalchemi.com/products/musc-noir-rose-for-her-narciso-rodriguez
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Spicebomb Extreme,Renamed,Spicebomb Extreme Viktor & Rolf,Spicebomb Extreme,https://thisisalchemi.com/products/spicebomb-extreme-viktor-rolf
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Bianco Latte,Renamed,Bianco Latte Giardini Di Toscana,Bianco Latte,https://thisisalchemi.com/products/bianco-latte-giardini-di-toscana
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Ambre Sultan,Renamed,Ambre Sultan Serge Lutens,Ambre Sultan,https://thisisalchemi.com/products/ambre-sultan-serge-lutens
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Libre Intense,Renamed,Libre Intense Yves Saint Laurent,Libre Intense,https://thisisalchemi.com/products/libre-intense-yves-saint-laurent
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Aqua Allegoria Mandarine Basilic,Renamed,Aqua Allegoria Mandarine Basilic Guerlain,Aqua Allegoria Mandarine Basilic,https://thisisalchemi.com/products/aqua-allegoria-mandarine-basilic-guerlain
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Russian Leather,Renamed,Russian Leather Memo Paris,Russian Leather,https://thisisalchemi.com/products/russian-leather-memo-paris
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Allure Sensuelle,Renamed,Allure Sensuelle Chanel,Allure Sensuelle,https://thisisalchemi.com/products/allure-sensuelle-chanel
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Interlude Man,Renamed,Interlude Man Amouage,Interlude Man,https://thisisalchemi.com/products/interlude-man-amouage
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Gris Charnel,Renamed,Gris Charnel BDK Parfums,Gris Charnel,https://thisisalchemi.com/products/gris-charnel-bdk-parfums
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Power Self,Renamed,Power Self Initio Parfums Prives,Power Self,https://thisisalchemi.com/products/power-self-initio-parfums-prives
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Lazy Sunday Morning,Renamed,Lazy Sunday Morning Maison Martin Margiela,Lazy Sunday Morning,https://thisisalchemi.com/products/lazy-sunday-morning-maison-martin-margiela
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Encens Suave,Renamed,Encens Suave Matiere Premiere,Encens Suave,https://thisisalchemi.com/products/encens-suave-matiere-premiere
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Donna Born in Roma Extradose,Renamed,Born in Roma Extradose Donna Valentino,Donna Born in Roma Extradose,https://thisisalchemi.com/products/born-in-roma-extradose-donna-valentino
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Terre d’Hermes Eau de Parfum Intense,Renamed,Terre d’Hermès Eau de Parfum Intense,Terre d’Hermes Eau de Parfum Intense,https://thisisalchemi.com/products/terre-d-hermes-eau-de-parfum-intense
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Bois Imperial,Renamed,Bois Impérial Essential Parfums,Bois Imperial,https://thisisalchemi.com/products/bois-imperial-essential-parfums
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Blue Talisman,Renamed,Blue Talisman Ex Nihilo,Blue Talisman,https://thisisalchemi.com/products/blue-talisman-ex-nihilo
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Bois Dore,Renamed,Bois Doré Van Cleef & Arpels,Bois Dore,https://thisisalchemi.com/products/bois-dore-van-cleef-arpels
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,B683,Renamed,B683 Marc-Antoine Barrois,B683,https://thisisalchemi.com/products/b683-marc-antoine-barrois
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Ganymede,Renamed,Ganymede Marc-Antoine Barrois,Ganymede,https://thisisalchemi.com/products/ganymede-marc-antoine-barrois
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Oud Satin Mood Extrait de Parfum,Renamed,Oud Satin Mood Extrait de Parfum Maison Francis Kurkdjian,Oud Satin Mood Extrait de Parfum,https://thisisalchemi.com/products/oud-satin-mood-extrait-de-parfum-maison-francis-kurkdjian
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Vanille Malika,Renamed,Vanille Malika Chopard,Vanille Malika,https://thisisalchemi.com/products/vanille-malika-chopard
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Yara Moi,Renamed,Yara Moi Lattafa Perfumes,Yara Moi,https://thisisalchemi.com/products/yara-moi-lattafa-perfumes
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Armani Code Profumo,Renamed,Armani Code Profumo Giorgio Armani,Armani Code Profumo,https://thisisalchemi.com/products/armani-code-profumo-giorgio-armani
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Fleur Majesty Rose Royale | 31,Renamed,Kayali Fleur Majesty Rose Royale | 31,Fleur Majesty Rose Royale | 31,https://thisisalchemi.com/products/kayali-fleur-majesty-rose-royale-31
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Yara,Renamed,Yara Lattafa Perfumes,Yara,https://thisisalchemi.com/products/yara-lattafa-perfumes
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Blu Mediterraneo Mandorlo di Sicilia,Renamed,Acqua di Parma Blu Mediterraneo Mandorlo di Sicilia,Blu Mediterraneo Mandorlo di Sicilia,https://thisisalchemi.com/products/acqua-di-parma-blu-mediterraneo-mandorlo-di-sicilia
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Vanilla Sex,Renamed,Vanilla Sex Tom Ford,Vanilla Sex,https://thisisalchemi.com/products/vanilla-sex-tom-ford
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Angels' Share Paradis,Renamed,Angels' Share Paradis By Kilian,Angels' Share Paradis,https://thisisalchemi.com/products/angels-share-paradis-by-kilian
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,L'Homme Ideal,Renamed,L'Homme Ideal Guerlain,L'Homme Ideal,https://thisisalchemi.com/products/lhomme-ideal-guerlain
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Boss The Scent,Renamed,Boss The Scent Hugo Boss,Boss The Scent,https://thisisalchemi.com/products/boss-the-scent-hugo-boss
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Rose Amira,Renamed,Rose Amira Guerlain,Rose Amira,https://thisisalchemi.com/products/rose-amira-guerlain
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Uomo Born in Roma Men,Renamed,Valentino Uomo Born in Roma Men,Uomo Born in Roma Men,https://thisisalchemi.com/products/valentino-uomo-born-in-roma
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Cuir Intense,Renamed,Cuir Intense Guerlain,Cuir Intense,https://thisisalchemi.com/products/cuir-intense-guerlain
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Rouge Chaotique,Renamed,Rouge Chaotique Byredo,Rouge Chaotique,https://thisisalchemi.com/products/rouge-chaotique-byredo
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Libre Flowers & Flames,Renamed,Libre Flowers & Flames Yves Saint Laurent,Libre Flowers & Flames,https://thisisalchemi.com/products/libre-flowers-flames-yves-saint-laurent
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Blonde Amber,Renamed,Blonde Amber Clive Christian,Blonde Amber,https://thisisalchemi.com/products/blonde-amber-clive-christian
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Amber Musc,Renamed,Amber Musc Narciso Rodriguez,Amber Musc,https://thisisalchemi.com/products/amber-musc-narciso-rodriguez
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Eclaire,Renamed,Eclaire Lattafa Perfumes,Eclaire,https://thisisalchemi.com/products/eclaire-lattafa-perfumes
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,XJ 1861 Naxos,Renamed,XJ 1861 Naxos Xerjoff,XJ 1861 Naxos,https://thisisalchemi.com/products/xj-1861-naxos-xerjoff
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Les Sables Roses,Renamed,Les Sables Roses Louis Vuitton,Les Sables Roses,https://thisisalchemi.com/products/les-sables-roses-louis-vuitton
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Love Don't Be Shy,Renamed,Love Don't Be Shy By Kilian,Love Don't Be Shy,https://thisisalchemi.com/products/love-dont-be-shy-by-kilian
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Hacivat,Renamed,Hacivat Nishane,Hacivat,https://thisisalchemi.com/products/hacivat-nishane
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Gypsy Water,Renamed,Gypsy Water Byredo,Gypsy Water,https://thisisalchemi.com/products/gypsy-water-byredo
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Armani Code Cashmere,Renamed,Armani Code Cashmere Giorgio Armani,Armani Code Cashmere,https://thisisalchemi.com/products/armani-code-cashmere-giorgio-armani
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Armani Code Sport,Renamed,Armani Code Sport Giorgio Armani,Armani Code Sport,https://thisisalchemi.com/products/armani-code-sport-giorgio-armani
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,L’Immensité,Renamed,L’Immensité Louis Vuitton,L’Immensité,https://thisisalchemi.com/products/l-immensite-louis-vuitton
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Daarej Pour Homme,Renamed,Daarej Pour Homme Rasasi,Daarej Pour Homme,https://thisisalchemi.com/products/daarej-pour-homme-rasasi
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,L'Interdit Rouge,Renamed,L'Interdit Rouge Givenchy,L'Interdit Rouge,https://thisisalchemi.com/products/linterdit-rouge-givenchy
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Good Girl Blush,Renamed,Good Girl Blush Carolina Herrera,Good Girl Blush,https://thisisalchemi.com/products/good-girl-blush
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Armani Prive Oud Royal,Renamed,Armani Prive Oud Royal Giorgio Armani,Armani Prive Oud Royal,https://thisisalchemi.com/products/armani-prive-oud-royal-giorgio-armani
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,La Luna,Renamed,La Luna Gissah,La Luna,https://thisisalchemi.com/products/la-luna-gissah
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Stronger With You Tobacco,Renamed,Emporio Armani Stronger With You Tobacco,Stronger With You Tobacco,https://thisisalchemi.com/products/emporio-armani-stronger-with-you-tobacco
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Club de Nuit Oud,Renamed,Club de Nuit Oud Armaf,Club de Nuit Oud,https://thisisalchemi.com/products/club-de-nuit-oud-armaf
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Lucky Candy,Renamed,Lucky Candy Montale,Lucky Candy,https://thisisalchemi.com/products/lucky-candy-montale
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Mandarino di Amalfi,Renamed,Mandarino di Amalfi Tom Ford,Mandarino di Amalfi,https://thisisalchemi.com/products/mandarino-di-amalfi-tom-ford
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Pure XS Men,Renamed,Pure XS Rabanne Men,Pure XS Men,https://thisisalchemi.com/products/pure-xs-rabanne-men
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Smoking Hot,Renamed,Smoking Hot By Kilian,Smoking Hot,https://thisisalchemi.com/products/smoking-hot-by-kilian
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Asad Zanzibar,Renamed,Asad Zanzibar Lattafa,Asad Zanzibar,https://thisisalchemi.com/products/asad-zanzibar-lattafa
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Delina,Renamed,Delina Parfums de Marly,Delina,https://thisisalchemi.com/products/delina-parfums-de-marly
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Stronger With You Oud,Renamed,Emporio Armani Stronger With You Oud,Stronger With You Oud,https://thisisalchemi.com/products/emporio-armani-stronger-with-you-oud
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Black Afgano,Renamed,Black Afgano Nasomatto,Black Afgano,https://thisisalchemi.com/products/black-afgano-nasomatto
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Red Tobacco,Renamed,Red Tobacco Mancera,Red Tobacco,https://thisisalchemi.com/products/red-tobacco-mancera
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Amore Caffè,Renamed,Amore Caffè Mancera,Amore Caffè,https://thisisalchemi.com/products/amore-caffe-mancera
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,The Scent Elixir For Him,Renamed,The Scent Elixir For Him Hugo Boss,The Scent Elixir For Him,https://thisisalchemi.com/products/the-scent-elixir-for-him-hugo-boss
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Hudson Valley,Renamed,Hudson Valley Gissah,Hudson Valley,https://thisisalchemi.com/products/hudson-valley-gissah
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Afternoon Swim,Renamed,Afternoon Swim Louis Vuitton,Afternoon Swim,https://thisisalchemi.com/products/afternoon-swim-louis-vuitton
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Absolu Aventus,Renamed,Absolu Aventus Creed,Absolu Aventus,https://thisisalchemi.com/products/absolu-aventus-creed
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Vanilla Cake,Renamed,Vanilla Cake Montale,Vanilla Cake,https://thisisalchemi.com/products/vanilla-cake-montale
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Fleur Narcotique,Renamed,Fleur Narcotique Ex Nihilo,Fleur Narcotique,https://thisisalchemi.com/products/fleur-narcotique-ex-nihilo
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Euphoria Men,Renamed,Euphoria Men Calvin Klein,Euphoria Men,https://thisisalchemi.com/products/euphoria-men-calvin-klein
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Play Men,Renamed,Play Givenchy Men,Play Men,https://thisisalchemi.com/products/play-givenchy
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Valaya,Renamed,Valaya Parfums de Marly,Valaya,https://thisisalchemi.com/products/valaya-parfums-de-marly
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Vanitas,Renamed,Vanitas Versace,Vanitas,https://thisisalchemi.com/products/vanitas-versace
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Calabria,Renamed,Calabria Gissah,Calabria,https://thisisalchemi.com/products/calabria-gissah
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Hawas,Renamed,Hawas Rasasi,Hawas,https://thisisalchemi.com/products/hawas-rasasi
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Insolence,Renamed,Insolence Guerlain,Insolence,https://thisisalchemi.com/products/insolence-guerlain
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Bade'e Al Oud Amethyst,Renamed,Bade'e Al Oud Amethyst Lattafa,Bade'e Al Oud Amethyst,https://thisisalchemi.com/products/badee-al-oud-amethyst-lattafa-perfumes
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Cherry Smoke,Renamed,Cherry Smoke Tom Ford,Cherry Smoke,https://thisisalchemi.com/products/cherry-smoke-tom-ford
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Starry Night,Renamed,Starry Night Montale,Starry Night,https://thisisalchemi.com/products/starry-night-montale
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Tuscan Leather,Renamed,Tuscan Leather Tom Ford,Tuscan Leather,https://thisisalchemi.com/products/tuscan-leather-tom-ford
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Café Rose,Renamed,Café Rose Tom Ford,Café Rose,https://thisisalchemi.com/products/cafe-rose-tom-ford
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Pacific Chill,Renamed,Pacific Chill Louis Vuitton,Pacific Chill,https://thisisalchemi.com/products/pacific-chill-louis-vuitton
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Invictus Legend,Renamed,Invictus Legend Paco Rabanne,Invictus Legend,https://thisisalchemi.com/products/invictus-legend
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Coco Vanille,Renamed,Coco Vanille Mancera,Coco Vanille,https://thisisalchemi.com/products/coco-vanille-mancera
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Tobacco Honey,Renamed,Tobacco Honey Guerlain,Tobacco Honey,https://thisisalchemi.com/products/tobacco-honey-guerlain
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Kouros,Renamed,Kouros Yves Saint Laurent,Kouros,https://thisisalchemi.com/products/kouros-yves-saint-laurent
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Alexandria 3,Renamed,Alexandria 3 Xerjoff,Alexandria 3,https://thisisalchemi.com/products/alexandria-3-xerjoff
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Encens Mythique,Renamed,Encens Mythique Guerlain,Encens Mythique,https://thisisalchemi.com/products/encens-mythique-guerlain
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Love in White Women,Renamed,Love in White Women Creed,Love in White Women,https://thisisalchemi.com/products/creed-love-in-white-women
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Oud Al Abiad,Renamed,Oud Al Abiad Rasasi,Oud Al Abiad,https://thisisalchemi.com/products/oud-al-abiad-rasasi
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Erba Pura,Renamed,Erba Pura Xerjoff,Erba Pura,https://thisisalchemi.com/products/erba-pura-xerjoff
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Intense Cafe,Renamed,Intense Cafe Montale,Intense Cafe,https://thisisalchemi.com/products/intense-cafe-montale
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Yara Tous,Renamed,Yara Tous Lattafa,Yara Tous,https://thisisalchemi.com/products/yara-tous-lattafa-perfumes
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Gentlemen Only,Renamed,Gentlemen Only Givenchy,Gentlemen Only,https://thisisalchemi.com/products/gentlemen-only-givenchy
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,California Dream,Renamed,California Dream Louis Vuitton,California Dream,https://thisisalchemi.com/products/california-dream-louis-vuitton
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Stronger With You Absolutely,Renamed,Emporio Armani Stronger With You Absolutely,Stronger With You Absolutely,https://thisisalchemi.com/products/stronger-with-you-absolutely-giorgio-armani
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Samsara,Renamed,Samsara Guerlain,Samsara,https://thisisalchemi.com/products/samsara-guerlain
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Dylan Blue Women,Renamed,Dylan Blue Versace Women,Dylan Blue Women,https://thisisalchemi.com/products/dylan-blue-versace-women
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Flowerbomb,Renamed,Flowerbomb Viktor & Rolf,Flowerbomb,https://thisisalchemi.com/products/flowerbomb-viktor-rolf
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Fame,Renamed,Fame Paco Rabanne,Fame,https://thisisalchemi.com/products/fame-paco-rabanne
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,The Most Wanted Parfum,Renamed,Azzaro The Most Wanted Parfum,The Most Wanted Parfum,https://thisisalchemi.com/products/azzaro-the-most-wanted
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Bitter Peach,Renamed,Bitter Peach Tom Ford,Bitter Peach,https://thisisalchemi.com/products/bitter-peach-tom-ford
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Althair,Renamed,Althair Parfums de Marly,Althair,https://thisisalchemi.com/products/althair-parfums-de-marly
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Santal Royal,Renamed,Santal Royal Guerlain,Santal Royal,https://thisisalchemi.com/products/santal-royal-guerlain
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Leather Blend,Renamed,Leather Blend Davidoff,Leather Blend,https://thisisalchemi.com/products/leather-blend-davidoff
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Millesime Imperial,Renamed,Millesime Imperial Creed,Millesime Imperial,https://thisisalchemi.com/products/millesime-imperial-creed
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Eros Flame Men,Renamed,Eros Flame Versace Men,Eros Flame Men,https://thisisalchemi.com/products/eros-flame-versace
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Cloud Pink,Renamed,Cloud Pink Ariana Grande,Cloud Pink,https://thisisalchemi.com/products/cloud-pink-ariana-grande
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Organza,Renamed,Organza Givenchy,Organza,https://thisisalchemi.com/products/organza-givenchy
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Pure Musc For Her,Renamed,Pure Musc For Her Narciso Rodriguez,Pure Musc For Her,https://thisisalchemi.com/products/pure-musc-for-her-narciso-rodriguez
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Armani Prive Vert Malachite,Renamed,Armani Prive Vert Malachite Giorgio Armani,Armani Prive Vert Malachite,https://thisisalchemi.com/products/armani-prive-vert-malachite
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Imperial Valley,Renamed,Imperial Valley Gissah,Imperial Valley,https://thisisalchemi.com/products/imperial-valley-gissah
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Donna Born In Roma Intense Women,Renamed,Valentino Donna Born In Roma Intense Women,Donna Born In Roma Intense Women,https://thisisalchemi.com/products/valentino-donna-born-in-roma-intense
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Delina Exclusif,Renamed,Delina Exclusif Parfums de Marly,Delina Exclusif,https://thisisalchemi.com/products/delina-exclusif-parfums-de-marly
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Angels' Share,Renamed,Angels' Share By Kilian,Angels' Share,https://thisisalchemi.com/products/angels-share-by-kilian
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Very Glam Good Girl,Renamed,Very Glam Good Girl Carolina Herrera,Very Glam Good Girl,https://thisisalchemi.com/products/very-good-girl-glam-carolina-herrera
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Stronger With You Intensely,Renamed,Emporio Armani Stronger With You Intensely,Stronger With You Intensely,https://thisisalchemi.com/products/stronger-with-you-intensely-giorgio-armani
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Tuxedo,Renamed,Tuxedo Yves Saint Laurent,Tuxedo,https://thisisalchemi.com/products/tuxedo-yves-saint-laurent
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Shaghaf,Renamed,Shaghaf Rasasi,Shaghaf,https://thisisalchemi.com/products/shaghaf-rasasi
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Khamrah,Renamed,Khamrah Lattafa,Khamrah,https://thisisalchemi.com/products/khamrah
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Roses Vanille,Renamed,Roses Vanille Mancera,Roses Vanille,https://thisisalchemi.com/products/roses-vanille-mancera
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Noir Extreme,Renamed,Noir Extreme Tom Ford,Noir Extreme,https://thisisalchemi.com/products/noir-extreme-tom-ford
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Imagination,Renamed,Imagination Louis Vuitton,Imagination,https://thisisalchemi.com/products/imagination-louis-vuitton
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Tobacco Vanille,Renamed,Tobacco Vanille Tom Ford,Tobacco Vanille,https://thisisalchemi.com/products/tobacco-vanille-tom-ford
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Roses Greedy,Renamed,Roses Greedy Mancera,Roses Greedy,https://thisisalchemi.com/products/roses-greedy-mancera
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Ombre Nomade,Renamed,Ombre Nomade Louis Vuitton,Ombre Nomade,https://thisisalchemi.com/products/ombre-nomade-louis-vuitton
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Neroli Portofino,Renamed,Neroli Portofino Tom Ford,Neroli Portofino,https://thisisalchemi.com/products/neroli-portofino-tom-ford
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Good Girl,Renamed,Good Girl Carolina Herrera,Good Girl,https://thisisalchemi.com/products/good-girl-carolina-herrera
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,No. 5 Parfum,Renamed,ChaneI No. 5 Parfum,No. 5 Parfum,https://thisisalchemi.com/products/chanel-no-5
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Roses Musk,Renamed,Roses Musk Montale,Roses Musk,https://thisisalchemi.com/products/roses-musk-montale
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Alexandria 2,Renamed,Alexandria 2 Xerjoff,Alexandria 2,https://thisisalchemi.com/products/alexandria-ii-xerjoff
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Arabians Tonka,Renamed,Arabians Tonka Montale,Arabians Tonka,https://thisisalchemi.com/products/arabians-tonka-montale
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Black Aoud,Renamed,Black Aoud Montale,Black Aoud,https://thisisalchemi.com/products/black-aoud-montale
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Aventus for Her,Renamed,Aventus for Her Creed,Aventus for Her,https://thisisalchemi.com/products/aventus-for-her-creed
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Tobacco Oud,Renamed,Tobacco Oud Tom Ford,Tobacco Oud,https://thisisalchemi.com/products/tobacco-oud-tom-ford
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Pegasus,Renamed,Pegasus Parfums de Marly,Pegasus,https://thisisalchemi.com/products/pegasus-parfums-de-marly
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Silver Mountain Water,Renamed,Silver Mountain Water Creed,Silver Mountain Water,https://thisisalchemi.com/products/silver-mountain-water-creed
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Si Intense,Renamed,Si Intense Giorgio Armani,Si Intense,https://thisisalchemi.com/products/si-intense-giorgio-armani
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Layton,Renamed,Layton Parfums de Marly,Layton,https://thisisalchemi.com/products/layton-parfums-de-marly
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Invictus Victory Elixir,Renamed,Invictus Victory Elixir Paco Rabanne,Invictus Victory Elixir,https://thisisalchemi.com/products/invictus-victory-elixir-paco-rabanne
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Gentleman Eau de Parfum,Renamed,Gentleman Eau de Parfum Givenchy,Gentleman Eau de Parfum,https://thisisalchemi.com/products/gentleman-givenchy
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Si Fiori,Renamed,Si Fiori Giorgio Armani,Si Fiori,https://thisisalchemi.com/products/si-fiori-giorgio-armani
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Very Irresistible EDT,Renamed,Very Irresistible Givenchy EDT,Very Irresistible EDT,https://thisisalchemi.com/products/very-irresistible-givenchy
+2026-11-17T13:07:27+00:00,alchemi,Description changed,Very Irresistible EDT,REMOVED: by Givenchy,,,https://thisisalchemi.com/products/very-irresistible-givenchy
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Armani Prive Rose d'Arabie,Renamed,Armani Prive Rose d'Arabie Giorgio Armani,Armani Prive Rose d'Arabie,https://thisisalchemi.com/products/armani-prive-rose-darabie
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Alien Oud,Renamed,Alien Oud Thierry Mugler,Alien Oud,https://thisisalchemi.com/products/alien-oud-mugler
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Bombshell,Renamed,Bombshell Victoria's Secret,Bombshell,https://thisisalchemi.com/products/bombshell-victorias-secret
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Donna Born In Roma Women,Renamed,Valentino Born In Roma Donna Women,Donna Born In Roma Women,https://thisisalchemi.com/products/valentino-donna
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,H24,Renamed,H24 Hermes,H24,https://thisisalchemi.com/products/h24-hermes
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Eros Pour Femme Women,Renamed,Eros Pour Femme Versace Women,Eros Pour Femme Women,https://thisisalchemi.com/products/eros-pour-femme-versace
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Ombre Leather,Renamed,Ombre Leather Tom Ford,Ombre Leather,https://thisisalchemi.com/products/ombre-leather-tom-ford
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Oud Wood,Renamed,Oud Wood Tom Ford,Oud Wood,https://thisisalchemi.com/products/oud-wood-tom-ford
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Invictus,Renamed,Invictus Paco Rabanne,Invictus,https://thisisalchemi.com/products/invictus-paco-rabanne
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Pour Un Homme de Caron,Renamed,Caron Pour Un Homme de Caron,Pour Un Homme de Caron,https://thisisalchemi.com/products/caron-pour-un-homme
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Black Orchid,Renamed,Black Orchid Tom Ford,Black Orchid,https://thisisalchemi.com/products/black-orchid-tom-ford
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Acqua di Gio,Renamed,Acqua di Gio Giorgio Armani,Acqua di Gio,https://thisisalchemi.com/products/acqua-di-gio-giorgio-armani
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,La Petite Robe Noire,Renamed,La Petite Robe Noire Guerlain,La Petite Robe Noire,https://thisisalchemi.com/products/la-petite-robe-noire-guerlain
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Champion,Renamed,Champion Davidoff,Champion,https://thisisalchemi.com/products/champion-davidoff
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Spicebomb EDT,Renamed,Spicebomb Viktor & Rolf EDT,Spicebomb EDT,https://thisisalchemi.com/products/spicebomb-viktor-rolf
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Cool Water Men,Renamed,Cool Water Davidoff Men,Cool Water Men,https://thisisalchemi.com/products/cool-water-davidoff
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Al Wissam,Renamed,Al Wissam Rasasi,Al Wissam,https://thisisalchemi.com/products/al-wissam-rasasi
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Armani Code Absolu Men,Renamed,Armani Code Absolu Men Giorgio Armani,Armani Code Absolu Men,https://thisisalchemi.com/products/armani-code-absolu
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Lost Cherry,Renamed,Lost Cherry Tom Ford,Lost Cherry,https://thisisalchemi.com/products/lost-cherry
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Eros,Renamed,Eros Versace,Eros,https://thisisalchemi.com/products/eros-versace
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Legend EDT,Renamed,Legend Montblanc EDT,Legend EDT,https://thisisalchemi.com/products/mont-blanc-legend
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Bright Crystal,Renamed,Bright Crystal Versace,Bright Crystal,https://thisisalchemi.com/products/bright-crystal-versace
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Eternity,Renamed,Eternity Calvin Klein,Eternity,https://thisisalchemi.com/products/eternity-calvin-klein
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,One Million,Renamed,One Million Paco Rabanne,One Million,https://thisisalchemi.com/products/one-million-paco-rabanne
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Coco Mademoiselle EDP,Renamed,Coco Mademoiselle Chanel EDP,Coco Mademoiselle EDP,https://thisisalchemi.com/products/coco-mademoiselle-chanel
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Libre,Renamed,Libre Yves Saint Laurent,Libre,https://thisisalchemi.com/products/yves-saint-laurent-libre
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Si,Renamed,Si Giorgio Armani,Si,https://thisisalchemi.com/products/giorgio-armani-si
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Pure XS For Her,Renamed,Pure XS For Her Paco Rabanne,Pure XS For Her,https://thisisalchemi.com/products/pure-xs-paco-rabanne
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Olympea,Renamed,Olympea Paco Rabanne,Olympea,https://thisisalchemi.com/products/paco-rabanne-olympea
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,My Way,Renamed,My Way Giorgio Armani,My Way,https://thisisalchemi.com/products/giorgio-armani-my-way
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Y EDP,Renamed,Y Yves Saint Laurent EDP,Y EDP,https://thisisalchemi.com/products/yves-saint-laurent-y
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Stronger With You,Renamed,Emporio Armani Stronger With You,Stronger With You,https://thisisalchemi.com/products/giorgio-armani-stronger-with-you
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Love is Heavenly,Renamed,Love is Heavenly Victoria's Secret,Love is Heavenly,https://thisisalchemi.com/products/victoria-secret-love-is-heavenly
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,L'interdit,Renamed,L'interdit Givenchy,L'interdit,https://thisisalchemi.com/products/linterdit-givenchy
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Invictus Platinum,Renamed,Invictus Platinum Paco Rabanne,Invictus Platinum,https://thisisalchemi.com/products/invictus-platinum
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Armani Black Code Men,Renamed,Armani Black Code Men Giorgio Armani,Armani Black Code Men,https://thisisalchemi.com/products/armani-code
+2026-11-17T13:07:27+00:00,alchemi,Product renamed,Aventus,Renamed,Aventus Creed,Aventus,https://thisisalchemi.com/products/creed
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text added,,Aventus,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text added,,Delina Exclusif,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text added,,The Most Wanted Parfum,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text added,,Imagination,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text added,,Coco Mademoiselle EDP,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text added,,Oud Wood,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text added,,Acqua di Gio,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text added,,Y EDP,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text added,,Legend EDT,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text added,,Eros,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text added,,Vanilla Sex,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text added,,Ombre Leather,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text added,,My Way,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text added,,Ombre Nomade,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text added,,One Million,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text added,,Invictus,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text added,,Alien Oud,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text added,,Blue Talisman,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text added,,Terre d’Hermes Eau de Parfum Intense,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text added,,Oud Satin Mood Extrait de Parfum,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text added,,Ganymede,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text added,,Libre,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text added,,Stronger With You Intensely,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text removed,Aventus Creed,,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text removed,Delina Exclusif Parfums de Marly,,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text removed,Azzaro The Most Wanted Parfum,,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text removed,Imagination Louis Vuitton,,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text removed,Coco Mademoiselle Chanel EDP,,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text removed,Oud Wood Tom Ford,,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text removed,Acqua di Gio Giorgio Armani,,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text removed,Y Yves Saint Laurent EDP,,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text removed,Legend Montblanc EDT,,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text removed,Eros Versace,,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text removed,Vanilla Sex Tom Ford,,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text removed,Ombre Leather Tom Ford,,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text removed,My Way Giorgio Armani,,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text removed,Ombre Nomade Louis Vuitton,,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text removed,Si Giorgio Armani,,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text removed,One Million Paco Rabanne,,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text removed,Invictus Paco Rabanne,,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text removed,Alien Oud Thierry Mugler,,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text removed,Blue Talisman Ex Nihilo,,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text removed,Terre d’Hermès Eau de Parfum Intense,,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text removed,Oud Satin Mood Extrait de Parfum Maison Francis Kurkdjian,,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text removed,Ganymede Marc-Antoine Barrois,,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text removed,Libre Yves Saint Laurent,,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/,Text removed,Emporio Armani Stronger With You Intensely,,https://thisisalchemi.com/
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/pages/quiz,Text added,,Aventus,https://thisisalchemi.com/pages/quiz
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/pages/quiz,Text added,,Delina Exclusif,https://thisisalchemi.com/pages/quiz
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/pages/quiz,Text added,,The Most Wanted Parfum,https://thisisalchemi.com/pages/quiz
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/pages/quiz,Text added,,Imagination,https://thisisalchemi.com/pages/quiz
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/pages/quiz,Text added,,Coco Mademoiselle EDP,https://thisisalchemi.com/pages/quiz
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/pages/quiz,Text added,,Oud Wood,https://thisisalchemi.com/pages/quiz
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/pages/quiz,Text added,,Acqua di Gio,https://thisisalchemi.com/pages/quiz
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/pages/quiz,Text added,,Y EDP,https://thisisalchemi.com/pages/quiz
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/pages/quiz,Text added,,Legend EDT,https://thisisalchemi.com/pages/quiz
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/pages/quiz,Text added,,Eros,https://thisisalchemi.com/pages/quiz
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/pages/quiz,Text added,,Vanilla Sex,https://thisisalchemi.com/pages/quiz
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/pages/quiz,Text added,,Ombre Leather,https://thisisalchemi.com/pages/quiz
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/pages/quiz,Text added,,My Way,https://thisisalchemi.com/pages/quiz
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/pages/quiz,Text added,,Ombre Nomade,https://thisisalchemi.com/pages/quiz
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/pages/quiz,Text added,,One Million,https://thisisalchemi.com/pages/quiz
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/pages/quiz,Text added,,Invictus,https://thisisalchemi.com/pages/quiz
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/pages/quiz,Text added,,Alien Oud,https://thisisalchemi.com/pages/quiz
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/pages/quiz,Text removed,Aventus Creed,,https://thisisalchemi.com/pages/quiz
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/pages/quiz,Text removed,Delina Exclusif Parfums de Marly,,https://thisisalchemi.com/pages/quiz
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/pages/quiz,Text removed,Azzaro The Most Wanted Parfum,,https://thisisalchemi.com/pages/quiz
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/pages/quiz,Text removed,Imagination Louis Vuitton,,https://thisisalchemi.com/pages/quiz
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/pages/quiz,Text removed,Coco Mademoiselle Chanel EDP,,https://thisisalchemi.com/pages/quiz
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/pages/quiz,Text removed,Oud Wood Tom Ford,,https://thisisalchemi.com/pages/quiz
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/pages/quiz,Text removed,Acqua di Gio Giorgio Armani,,https://thisisalchemi.com/pages/quiz
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/pages/quiz,Text removed,Y Yves Saint Laurent EDP,,https://thisisalchemi.com/pages/quiz
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/pages/quiz,Text removed,Legend Montblanc EDT,,https://thisisalchemi.com/pages/quiz
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/pages/quiz,Text removed,Eros Versace,,https://thisisalchemi.com/pages/quiz
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/pages/quiz,Text removed,Vanilla Sex Tom Ford,,https://thisisalchemi.com/pages/quiz
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/pages/quiz,Text removed,Ombre Leather Tom Ford,,https://thisisalchemi.com/pages/quiz
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/pages/quiz,Text removed,My Way Giorgio Armani,,https://thisisalchemi.com/pages/quiz
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/pages/quiz,Text removed,Ombre Nomade Louis Vuitton,,https://thisisalchemi.com/pages/quiz
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/pages/quiz,Text removed,Si Giorgio Armani,,https://thisisalchemi.com/pages/quiz
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/pages/quiz,Text removed,One Million Paco Rabanne,,https://thisisalchemi.com/pages/quiz
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/pages/quiz,Text removed,Invictus Paco Rabanne,,https://thisisalchemi.com/pages/quiz
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/pages/quiz,Text removed,Alien Oud Thierry Mugler,,https://thisisalchemi.com/pages/quiz
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/policies/refund-policy,Text added,,Aventus,https://thisisalchemi.com/policies/refund-policy
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/policies/refund-policy,Text added,,Delina Exclusif,https://thisisalchemi.com/policies/refund-policy
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/policies/refund-policy,Text added,,The Most Wanted Parfum,https://thisisalchemi.com/policies/refund-policy
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/policies/refund-policy,Text added,,Imagination,https://thisisalchemi.com/policies/refund-policy
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/policies/refund-policy,Text added,,Coco Mademoiselle EDP,https://thisisalchemi.com/policies/refund-policy
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/policies/refund-policy,Text added,,Oud Wood,https://thisisalchemi.com/policies/refund-policy
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/policies/refund-policy,Text added,,Acqua di Gio,https://thisisalchemi.com/policies/refund-policy
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/policies/refund-policy,Text added,,Y EDP,https://thisisalchemi.com/policies/refund-policy
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/policies/refund-policy,Text added,,Legend EDT,https://thisisalchemi.com/policies/refund-policy
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/policies/refund-policy,Text added,,Eros,https://thisisalchemi.com/policies/refund-policy
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/policies/refund-policy,Text added,,Vanilla Sex,https://thisisalchemi.com/policies/refund-policy
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/policies/refund-policy,Text added,,Ombre Leather,https://thisisalchemi.com/policies/refund-policy
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/policies/refund-policy,Text added,,My Way,https://thisisalchemi.com/policies/refund-policy
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/policies/refund-policy,Text added,,Ombre Nomade,https://thisisalchemi.com/policies/refund-policy
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/policies/refund-policy,Text added,,One Million,https://thisisalchemi.com/policies/refund-policy
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/policies/refund-policy,Text added,,Invictus,https://thisisalchemi.com/policies/refund-policy
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/policies/refund-policy,Text added,,Alien Oud,https://thisisalchemi.com/policies/refund-policy
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/policies/refund-policy,Text removed,Aventus Creed,,https://thisisalchemi.com/policies/refund-policy
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/policies/refund-policy,Text removed,Delina Exclusif Parfums de Marly,,https://thisisalchemi.com/policies/refund-policy
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/policies/refund-policy,Text removed,Azzaro The Most Wanted Parfum,,https://thisisalchemi.com/policies/refund-policy
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/policies/refund-policy,Text removed,Imagination Louis Vuitton,,https://thisisalchemi.com/policies/refund-policy
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/policies/refund-policy,Text removed,Coco Mademoiselle Chanel EDP,,https://thisisalchemi.com/policies/refund-policy
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/policies/refund-policy,Text removed,Oud Wood Tom Ford,,https://thisisalchemi.com/policies/refund-policy
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/policies/refund-policy,Text removed,Acqua di Gio Giorgio Armani,,https://thisisalchemi.com/policies/refund-policy
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/policies/refund-policy,Text removed,Y Yves Saint Laurent EDP,,https://thisisalchemi.com/policies/refund-policy
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/policies/refund-policy,Text removed,Legend Montblanc EDT,,https://thisisalchemi.com/policies/refund-policy
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/policies/refund-policy,Text removed,Eros Versace,,https://thisisalchemi.com/policies/refund-policy
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/policies/refund-policy,Text removed,Vanilla Sex Tom Ford,,https://thisisalchemi.com/policies/refund-policy
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/policies/refund-policy,Text removed,Ombre Leather Tom Ford,,https://thisisalchemi.com/policies/refund-policy
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/policies/refund-policy,Text removed,My Way Giorgio Armani,,https://thisisalchemi.com/policies/refund-policy
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/policies/refund-policy,Text removed,Ombre Nomade Louis Vuitton,,https://thisisalchemi.com/policies/refund-policy
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/policies/refund-policy,Text removed,Si Giorgio Armani,,https://thisisalchemi.com/policies/refund-policy
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/policies/refund-policy,Text removed,One Million Paco Rabanne,,https://thisisalchemi.com/policies/refund-policy
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/policies/refund-policy,Text removed,Invictus Paco Rabanne,,https://thisisalchemi.com/policies/refund-policy
+2026-11-17T13:07:27+00:00,alchemi,Website text changes,/policies/refund-policy,Text removed,Alien Oud Thierry Mugler,,https://thisisalchemi.com/policies/refund-policy
