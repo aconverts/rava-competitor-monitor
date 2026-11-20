@@ -45,7 +45,7 @@
    "title": "Women's Section"
   }
  },
- "fetched_at": "2026-11-20T12:44:12+00:00",
+ "fetched_at": "2026-11-20T21:46:16+00:00",
  "pages": {
   "/": {
    "images": [
@@ -1342,14 +1342,14 @@
     "100ml": {
      "available": true,
      "compare_at": null,
-     "price": 34.99,
+     "price": 24.99,
      "sku": "",
      "title": "100 mL"
     },
     "50ml": {
      "available": true,
      "compare_at": null,
-     "price": 24.99,
+     "price": 17.99,
      "sku": "",
      "title": "50 mL"
     }
