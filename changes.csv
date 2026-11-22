@@ -575,3 +575,8 @@ run_at_utc,site,category,product,detail,old,new,url
 2026-11-21T12:29:34+00:00,alchemi,Website text changes,/policies/refund-policy,Text added,,Libre,https://thisisalchemi.com/policies/refund-policy
 2026-11-21T12:29:34+00:00,alchemi,Website text changes,/policies/refund-policy,Text added,,Stronger With You Intensely,https://thisisalchemi.com/policies/refund-policy
 2026-11-21T12:29:34+00:00,alchemi,New banners / images on pages,/policies/refund-policy,"2 new image(s): https://thisisalchemi.com/cdn/shop/files/309F8DBA-F3F2-48EE-8130-7CBE0BB9354D.jpg, https://thisisalchemi.com/cdn/shop/files/E1611BE2-6B3E-4E40-801C-571A4F7BE777.jpg",,,https://thisisalchemi.com/policies/refund-policy
+2026-11-22T20:42:20+00:00,alchemi,New products,Armani Prive Rouge Malachite,"$17.99 to $24.99 | sizes: 100 mL, 50 mL | type: Unisex Perfume | published: 2026-11-22",,,https://thisisalchemi.com/products/armani-prive-rouge-malachite
+2026-11-22T20:42:20+00:00,alchemi,Stock changes,Aqua Allegoria Rosa Rossa,50 mL: SOLD OUT,in stock,sold out,https://thisisalchemi.com/products/aqua-allegoria-rosa-rossa
+2026-11-22T20:42:20+00:00,alchemi,Stock changes,Aqua Allegoria Rosa Rossa,100 mL: SOLD OUT,in stock,sold out,https://thisisalchemi.com/products/aqua-allegoria-rosa-rossa
+2026-11-22T20:42:20+00:00,alchemi,Price changes,Calabria,50 mL: DOWN -18.2%,$21.99,$17.99,https://thisisalchemi.com/products/calabria-gissah
+2026-11-22T20:42:20+00:00,alchemi,Collections,shop-all,Added to collection: Armani Prive Rouge Malachite,,,https://thisisalchemi.com/collections/shop-all

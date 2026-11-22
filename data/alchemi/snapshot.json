@@ -45,7 +45,7 @@
    "title": "Women's Section"
   }
  },
- "fetched_at": "2026-11-22T12:28:18+00:00",
+ "fetched_at": "2026-11-22T20:42:29+00:00",
  "pages": {
   "/": {
    "images": [
@@ -3076,14 +3076,14 @@
    "url": "https://thisisalchemi.com/products/aqua-allegoria-rosa-rossa",
    "variants": {
     "100ml": {
-     "available": true,
+     "available": false,
      "compare_at": null,
      "price": 24.99,
      "sku": "",
      "title": "100 mL"
     },
     "50ml": {
-     "available": true,
+     "available": false,
      "compare_at": null,
      "price": 17.99,
      "sku": "",
@@ -3651,7 +3651,7 @@
      "title": "50ml"
     }
    },
-   "vendor": "Carolina Herrera"
+   "vendor": "Alchemi"
   },
   "8844646383907": {
    "created_at": "2023-11-11T12:38:29-05:00",
@@ -3690,7 +3690,7 @@
      "title": "50ml"
     }
    },
-   "vendor": "Giorgio Armani"
+   "vendor": "Alchemi"
   },
   "8844649496867": {
    "created_at": "2023-11-11T12:41:00-05:00",
@@ -3729,7 +3729,7 @@
      "title": "50ml"
     }
    },
-   "vendor": "Yves Saint Laurent"
+   "vendor": "Alchemi"
   },
   "8844657557795": {
    "created_at": "2023-11-11T12:47:30-05:00",
@@ -3768,7 +3768,7 @@
      "title": "50ml"
     }
    },
-   "vendor": "Burberry"
+   "vendor": "Alchemi"
   },
   "8856700027171": {
    "created_at": "2023-11-15T04:59:16-05:00",
@@ -3807,7 +3807,7 @@
      "title": "50ml"
     }
    },
-   "vendor": "Thierry Mugler"
+   "vendor": "Alchemi"
   },
   "8856734171427": {
    "created_at": "2023-11-15T05:17:03-05:00",
@@ -3848,7 +3848,7 @@
      "title": "50ml"
     }
    },
-   "vendor": "Lattafa"
+   "vendor": "Alchemi"
   },
   "8856913740067": {
    "created_at": "2023-11-15T07:02:32-05:00",
@@ -3887,7 +3887,7 @@
      "title": "50 mL"
     }
    },
-   "vendor": "Creed"
+   "vendor": "Alchemi"
   },
   "8856918294819": {
    "created_at": "2023-11-15T07:05:34-05:00",
@@ -3928,7 +3928,7 @@
      "title": "50ml"
     }
    },
-   "vendor": "Maison Francis Kurkdjian"
+   "vendor": "Alchemi"
   },
   "8856925995299": {
    "created_at": "2023-11-15T07:10:23-05:00",
@@ -3967,7 +3967,7 @@
      "title": "50ml"
     }
    },
-   "vendor": "Chanel"
+   "vendor": "Alchemi"
   },
   "8856935792931": {
    "created_at": "2023-11-15T07:14:52-05:00",
@@ -4006,7 +4006,7 @@
      "title": "50ml"
     }
    },
-   "vendor": "Viktor & Rolf"
+   "vendor": "Alchemi"
   },
   "8856942117155": {
    "created_at": "2023-11-15T07:17:32-05:00",
@@ -4045,7 +4045,7 @@
      "title": "50ml"
     }
    },
-   "vendor": "Chanel"
+   "vendor": "Alchemi"
   },
   "8856951652643": {
    "created_at": "2023-11-15T07:21:29-05:00",
@@ -4086,7 +4086,7 @@
      "title": "50ml"
     }
    },
-   "vendor": "Calvin Klein"
+   "vendor": "Alchemi"
   },
   "8857004146979": {
    "created_at": "2023-11-15T07:53:39-05:00",
@@ -4125,7 +4125,7 @@
      "title": "50ml"
     }
    },
-   "vendor": "Giorgio Armani"
+   "vendor": "Alchemi"
   },
   "8857007161635": {
    "created_at": "2023-11-15T07:55:58-05:00",
@@ -4203,7 +4203,7 @@
      "title": "50ml"
     }
    },
-   "vendor": "Dunhill"
+   "vendor": "Alchemi"
   },
   "8857023283491": {
    "created_at": "2023-11-15T08:08:48-05:00",
@@ -4242,7 +4242,7 @@
      "title": "50ml"
     }
    },
-   "vendor": "Elie Saab"
+   "vendor": "Alchemi"
   },
   "8857025216803": {
    "created_at": "2023-11-15T08:10:33-05:00",
@@ -4320,7 +4320,7 @@
      "title": "50ml"
     }
    },
-   "vendor": "Gucci"
+   "vendor": "Alchemi"
   },
   "8857074434339": {
    "created_at": "2023-11-15T08:57:18-05:00",
@@ -4359,7 +4359,7 @@
      "title": "50ml"
     }
    },
-   "vendor": "Hugo"
+   "vendor": "Alchemi"
   },
   "8857079349539": {
    "created_at": "2023-11-15T09:01:59-05:00",
@@ -4398,7 +4398,7 @@
      "title": "50ml"
     }
    },
-   "vendor": "Lancôme"
+   "vendor": "Alchemi"
   },
   "8857081348387": {
    "created_at": "2023-11-15T09:03:44-05:00",
@@ -4476,7 +4476,7 @@
      "title": "50ml"
     }
    },
-   "vendor": "Dolce & Gabbana"
+   "vendor": "Alchemi"
   },
   "8857086918947": {
    "created_at": "2023-11-15T09:09:13-05:00",
@@ -4515,7 +4515,7 @@
      "title": "50ml"
     }
    },
-   "vendor": "Givenchy"
+   "vendor": "Alchemi"
   },
   "8857089769763": {
    "created_at": "2023-11-15T09:11:59-05:00",
@@ -4553,7 +4553,7 @@
      "title": "50ml"
     }
    },
-   "vendor": "Lancôme"
+   "vendor": "Alchemi"
   },
   "8857100124451": {
    "created_at": "2023-11-15T09:22:22-05:00",
@@ -4592,7 +4592,7 @@
      "title": "50ml"
     }
    },
-   "vendor": "Lancôme"
+   "vendor": "Alchemi"
   },
   "8857105137955": {
    "created_at": "2023-11-15T09:29:31-05:00",
@@ -8945,6 +8945,47 @@
    },
    "vendor": "Yves Saint Laurent"
   },
+  "9138252644643": {
+   "created_at": "2024-04-05T07:54:33-04:00",
+   "description": "Top notes are Tuberose, Pink Pepper and Clary Sage; middle notes are Tuberose, Jasmine Sambac, Ylang-Ylang, Benzoin, Cashmeran and Orange Blossom; base notes are Tuberose and Amber.",
+   "handle": "armani-prive-rouge-malachite",
+   "id": "9138252644643",
+   "images": [
+    "/s/files/1/0813/4000/6691/files/D50F64DD-0D37-43B5-A21E-EAFCE4FC19ED.jpg",
+    "/s/files/1/0813/4000/6691/files/54EE35A9-F644-4182-B1FE-B4C76084F65F.png",
+    "/s/files/1/0813/4000/6691/files/15C691AA-6B44-4140-8686-1D3FDEAA5651.jpg",
+    "/s/files/1/0813/4000/6691/files/2D9224AA-8BD2-461F-8686-38B4E52FBD3E.jpg",
+    "/s/files/1/0813/4000/6691/files/FD06FADA-4576-430D-BFFC-5763267DDC8A.jpg"
+   ],
+   "published_at": "2026-11-22T12:26:04-05:00",
+   "tags": [
+    "Bold",
+    "Floral",
+    "Men",
+    "Unisex",
+    "Women"
+   ],
+   "title": "Armani Prive Rouge Malachite",
+   "type": "Unisex Perfume",
+   "url": "https://thisisalchemi.com/products/armani-prive-rouge-malachite",
+   "variants": {
+    "100ml": {
+     "available": true,
+     "compare_at": null,
+     "price": 24.99,
+     "sku": "200044",
+     "title": "100 mL"
+    },
+    "50ml": {
+     "available": true,
+     "compare_at": null,
+     "price": 17.99,
+     "sku": "300044",
+     "title": "50 mL"
+    }
+   },
+   "vendor": "Alchemi"
+  },
   "9155952804131": {
    "created_at": "2024-04-09T05:37:21-04:00",
    "description": "Top notes are Cinnamon, Nutmeg and Bergamot; middle notes are Dates, Praline, Tuberose and Mahonial; base notes are Vanilla, Tonka Bean, Amberwood, Myrrh, Benzoin and Akigalawood.",
@@ -12539,7 +12580,7 @@
     "50ml": {
      "available": true,
      "compare_at": null,
-     "price": 21.99,
+     "price": 17.99,
      "sku": "300095",
      "title": "50 mL"
     }
@@ -17166,6 +17207,7 @@
    "insolence-guerlain",
    "212-vip",
    "very-irresistible-givenchy",
+   "armani-prive-rouge-malachite",
    "musc-noir-rose-for-her-narciso-rodriguez",
    "gucci-guilty-women",
    "scandal-pour-homme-jean-paul-gaultier",
