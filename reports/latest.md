@@ -1,5 +1,5 @@
 # Competitor monitor report
-Run: 2026-11-21 20:29 UTC
+Run: 2026-11-22 12:28 UTC
 
 ## Alchemi (https://thisisalchemi.com)
 Products live: 415 | Changes: 0
