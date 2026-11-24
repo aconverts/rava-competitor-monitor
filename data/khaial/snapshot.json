@@ -45,7 +45,7 @@
    "title": "WOMEN'S PERFUMES"
   }
  },
- "fetched_at": "2026-11-24T01:38:06+00:00",
+ "fetched_at": "2026-11-24T14:44:31+00:00",
  "pages": {
   "/": {
    "images": [
@@ -1098,7 +1098,7 @@
    "handle": "ultra-male",
    "id": "8074925473961",
    "images": [
-    "/s/files/1/0653/7999/1721/files/ultra-male-intense.png"
+    "/s/files/1/0653/7999/1721/files/ultramale.png"
    ],
    "published_at": "2026-10-24T15:49:33+03:00",
    "tags": [],
@@ -2106,7 +2106,7 @@
    "handle": "armani-code",
    "id": "8859718844585",
    "images": [
-    "/s/files/1/0653/7999/1721/files/armani-code_9bda8fe8-b76c-4a17-99c9-c362bc574bd7.png"
+    "/s/files/1/0653/7999/1721/files/Armaniode.png"
    ],
    "published_at": "2026-10-24T15:46:57+03:00",
    "tags": [],
@@ -2154,7 +2154,7 @@
    "handle": "l-homme-ideal-guerlain",
    "id": "8860163047593",
    "images": [
-    "/s/files/1/0653/7999/1721/files/lhomme-ideal.png"
+    "/s/files/1/0653/7999/1721/files/Lhommeideal.png"
    ],
    "published_at": "2026-10-24T15:47:24+03:00",
    "tags": [],
@@ -2778,7 +2778,7 @@
    "handle": "creed-aventus-absolu",
    "id": "8871428325545",
    "images": [
-    "/s/files/1/0653/7999/1721/files/creed-aventus-absolu.png"
+    "/s/files/1/0653/7999/1721/files/creedaventusabsolu.png"
    ],
    "published_at": "2026-10-24T15:47:51+03:00",
    "tags": [],
@@ -2935,15 +2935,15 @@
    "the-one-for-men",
    "hypnotic-posion",
    "terre-d-hermes",
-   "spicebomb-extreme",
    "gucci-intense-oud",
+   "spicebomb-extreme",
    "valentino-uomo-intense",
    "layton-parfums-de-marly",
    "silver-scent",
    "crystal-noir",
    "la-nuit-tresor",
-   "bright-crystal",
    "fahrenheit",
+   "bright-crystal",
    "stronger-with-you-absolutely",
    "scandal",
    "chanel-n-5",
