@@ -45,7 +45,7 @@
    "title": "Women's Section"
   }
  },
- "fetched_at": "2026-11-26T13:46:56+00:00",
+ "fetched_at": "2026-11-26T22:56:40+00:00",
  "pages": {
   "/": {
    "images": [
@@ -3546,14 +3546,14 @@
    "url": "https://thisisalchemi.com/products/oud-for-greatness",
    "variants": {
     "100ml": {
-     "available": true,
+     "available": false,
      "compare_at": null,
      "price": 34.99,
      "sku": "",
      "title": "100 mL"
     },
     "50ml": {
-     "available": true,
+     "available": false,
      "compare_at": null,
      "price": 24.99,
      "sku": "",

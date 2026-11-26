@@ -1,7 +1,7 @@
 {
  "collections": {
   "all-perfumes": {
-   "products_count": 142,
+   "products_count": 143,
    "title": "ALL PERFUMES"
   },
   "body-splash": {
@@ -21,11 +21,11 @@
    "title": "HOME SPRAYS"
   },
   "mens-collection": {
-   "products_count": 96,
+   "products_count": 97,
    "title": "MEN'S PERFUMES"
   },
   "photoshoot-collection": {
-   "products_count": 31,
+   "products_count": 32,
    "title": "Photoshoot Collection"
   },
   "private-collection": {
@@ -45,7 +45,7 @@
    "title": "WOMEN'S PERFUMES"
   }
  },
- "fetched_at": "2026-11-26T13:47:02+00:00",
+ "fetched_at": "2026-11-26T22:56:44+00:00",
  "pages": {
   "/": {
    "images": [
@@ -1107,7 +1107,7 @@
    "url": "https://khaialperfumes.com/products/ultra-male",
    "variants": {
     "120ml": {
-     "available": false,
+     "available": true,
      "compare_at": null,
      "price": 24.99,
      "sku": "",
