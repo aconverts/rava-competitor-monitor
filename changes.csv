@@ -593,3 +593,18 @@ run_at_utc,site,category,product,detail,old,new,url
 2026-11-24T14:44:16+00:00,khaial,Product images changed,Armani Code for Men,"1 image(s) added, 1 removed",1,1,https://khaialperfumes.com/products/armani-code
 2026-11-25T23:03:15+00:00,alchemi,Product renamed,Elie Saab EDP,Renamed,Elie Saab,Elie Saab EDP,https://thisisalchemi.com/products/elie-saab
 2026-11-25T23:03:15+00:00,alchemi,Description changed,Elie Saab EDP,"REMOVED: Mandarin Blossom; | notes are Orange Blossom and Gardenia; | Vetiver | Rose.  ADDED: African Orange Flower; | note is Jasmine; | White | Patchouli, Rose | Virginia Cedar.",,,https://thisisalchemi.com/products/elie-saab
+2026-11-26T13:46:47+00:00,alchemi,Stock changes,Vanilla Diorama,50 mL: SOLD OUT,in stock,sold out,https://thisisalchemi.com/products/vanilla-diorama
+2026-11-26T13:46:47+00:00,alchemi,Stock changes,Vanilla Diorama,100 mL: SOLD OUT,in stock,sold out,https://thisisalchemi.com/products/vanilla-diorama
+2026-11-26T13:46:47+00:00,alchemi,Stock changes,Burberry London Women,100 mL: SOLD OUT,in stock,sold out,https://thisisalchemi.com/products/london-burberry
+2026-11-26T13:46:47+00:00,alchemi,Stock changes,Burberry London Women,50 mL: SOLD OUT,in stock,sold out,https://thisisalchemi.com/products/london-burberry
+2026-11-26T13:46:47+00:00,alchemi,Stock changes,Boss Bottled Night,100 mL: SOLD OUT,in stock,sold out,https://thisisalchemi.com/products/boss-bottled-night
+2026-11-26T13:46:47+00:00,alchemi,Stock changes,Boss Bottled Night,50 mL: SOLD OUT,in stock,sold out,https://thisisalchemi.com/products/boss-bottled-night
+2026-11-26T13:46:47+00:00,alchemi,Stock changes,Libre,100ml: SOLD OUT,in stock,sold out,https://thisisalchemi.com/products/yves-saint-laurent-libre
+2026-11-26T13:46:47+00:00,alchemi,Stock changes,Libre,50ml: SOLD OUT,in stock,sold out,https://thisisalchemi.com/products/yves-saint-laurent-libre
+2026-11-26T13:46:47+00:00,alchemi,Product renamed,Armani Black Code Men EDT,Renamed,Armani Black Code Men,Armani Black Code Men EDT,https://thisisalchemi.com/products/armani-code
+2026-11-26T13:46:47+00:00,alchemi,Description changed,Armani Black Code Men EDT,"REMOVED: notes are Lemon and Bergamot; | notes are Star Anise, Olive Blossom and Guaiac Wood; | Leather, | Tobacco.  ADDED: note is Green Mandarin; | note is Lavender; | Cedar.",,,https://thisisalchemi.com/products/armani-code
+2026-11-26T13:46:47+00:00,alchemi,Website text changes,/,Text removed,Vanilla Diorama,,https://thisisalchemi.com/
+2026-11-26T13:46:47+00:00,alchemi,Website text changes,/pages/quiz,Text removed,Libre,,https://thisisalchemi.com/pages/quiz
+2026-11-26T13:46:47+00:00,alchemi,Website text changes,/pages/quiz,Text removed,Vanilla Diorama,,https://thisisalchemi.com/pages/quiz
+2026-11-26T13:46:47+00:00,alchemi,Website text changes,/policies/refund-policy,Text removed,Libre,,https://thisisalchemi.com/policies/refund-policy
+2026-11-26T13:46:47+00:00,alchemi,Website text changes,/policies/refund-policy,Text removed,Vanilla Diorama,,https://thisisalchemi.com/policies/refund-policy
