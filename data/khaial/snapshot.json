@@ -1,7 +1,7 @@
 {
  "collections": {
   "all-perfumes": {
-   "products_count": 146,
+   "products_count": 147,
    "title": "ALL PERFUMES"
   },
   "body-splash": {
@@ -21,7 +21,7 @@
    "title": "HOME SPRAYS"
   },
   "mens-collection": {
-   "products_count": 100,
+   "products_count": 101,
    "title": "MEN'S PERFUMES"
   },
   "photoshoot-collection": {
@@ -33,7 +33,7 @@
    "title": "PRIVATE COLLECTION"
   },
   "unisex-collection": {
-   "products_count": 20,
+   "products_count": 21,
    "title": "UNISEX COLLECTION"
   },
   "vanilla-perfumes": {
@@ -41,11 +41,11 @@
    "title": "Vanilla Perfumes"
   },
   "womens-collection": {
-   "products_count": 66,
+   "products_count": 67,
    "title": "WOMEN'S PERFUMES"
   }
  },
- "fetched_at": "2026-11-27T13:44:08+00:00",
+ "fetched_at": "2026-11-27T22:39:39+00:00",
  "pages": {
   "/": {
    "images": [
@@ -372,6 +372,30 @@
    },
    "vendor": "Khaial Perfumes"
   },
+  "10368420774057": {
+   "created_at": "2026-11-27T15:12:16+02:00",
+   "description": "Fresh and sparkling grapefruit over warm amberwood and smooth musk. Crisp, vibrant, and effortlessly luxurious. Top Notes: Grapefruit Middle Notes: Ginger and Ambrette Base Notes: Ambroxan, Musk, Vetiver and Patchouli",
+   "handle": "bvlgari-tygar",
+   "id": "10368420774057",
+   "images": [
+    "/s/files/1/0653/7999/1721/files/Bvlgari_tygar_product.png"
+   ],
+   "published_at": "2026-11-27T16:03:09+02:00",
+   "tags": [],
+   "title": "Bvlgari Tygar",
+   "type": "For Him",
+   "url": "https://khaialperfumes.com/products/bvlgari-tygar",
+   "variants": {
+    "120ml": {
+     "available": true,
+     "compare_at": null,
+     "price": 24.99,
+     "sku": "",
+     "title": "120ml"
+    }
+   },
+   "vendor": "Khaial Perfumes"
+  },
   "10368423166121": {
    "created_at": "2026-11-27T15:15:25+02:00",
    "description": "Exotic passion fruit and rich oud layered over warm amber, leather, and smooth woods. Bold, fruity, and irresistibly opulent, a powerful niche fragrance that turns heads and leaves an unforgettable trail. Top Notes: Passionfruit, Fruity Notes, Saffron and Turkish Rose Middle Notes: Agarwood (Oud), Benzoin and Indonesian Patchouli Leaf Base Notes: Leather, Akigalawood, Amber, Vanilla and Labdanum.",
@@ -385,6 +409,30 @@
    "title": "Oud Maracuja",
    "type": "Unisex",
    "url": "https://khaialperfumes.com/products/oud-maracuja",
+   "variants": {
+    "120ml": {
+     "available": true,
+     "compare_at": null,
+     "price": 24.99,
+     "sku": "",
+     "title": "120ml"
+    }
+   },
+   "vendor": "Khaial Perfumes"
+  },
+  "10368474841257": {
+   "created_at": "2026-11-27T16:02:37+02:00",
+   "description": "Dark, smoky oud blended with warm spices, earthy patchouli, and rich rose over a deep woody base. Top Notes: Rose, Agarwood (Oud), Patchouli, Musk Middle Notes: French labdanum and Mandarin Orange Base Notes: Warm Spicy, Amber",
+   "handle": "montale-black-oud",
+   "id": "10368474841257",
+   "images": [
+    "/s/files/1/0653/7999/1721/files/black-oud-076705e9.png"
+   ],
+   "published_at": "2026-11-27T16:02:38+02:00",
+   "tags": [],
+   "title": "Montale Black Oud",
+   "type": "Unisex",
+   "url": "https://khaialperfumes.com/products/montale-black-oud",
    "variants": {
     "120ml": {
      "available": true,
@@ -3057,7 +3105,9 @@
    "narciso-rodriguez-pure-musc-for-her",
    "l-homme-ideal-guerlain",
    "black-afgano",
+   "montale-black-oud",
    "oud-maracuja",
+   "bvlgari-tygar",
    "xerjoff-naxos",
    "stronger-with-you-powerfully"
   ],
