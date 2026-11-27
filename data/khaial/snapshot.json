@@ -1,7 +1,7 @@
 {
  "collections": {
   "all-perfumes": {
-   "products_count": 143,
+   "products_count": 146,
    "title": "ALL PERFUMES"
   },
   "body-splash": {
@@ -21,11 +21,11 @@
    "title": "HOME SPRAYS"
   },
   "mens-collection": {
-   "products_count": 97,
+   "products_count": 100,
    "title": "MEN'S PERFUMES"
   },
   "photoshoot-collection": {
-   "products_count": 32,
+   "products_count": 34,
    "title": "Photoshoot Collection"
   },
   "private-collection": {
@@ -33,7 +33,7 @@
    "title": "PRIVATE COLLECTION"
   },
   "unisex-collection": {
-   "products_count": 18,
+   "products_count": 20,
    "title": "UNISEX COLLECTION"
   },
   "vanilla-perfumes": {
@@ -41,11 +41,11 @@
    "title": "Vanilla Perfumes"
   },
   "womens-collection": {
-   "products_count": 64,
+   "products_count": 66,
    "title": "WOMEN'S PERFUMES"
   }
  },
- "fetched_at": "2026-11-26T22:56:44+00:00",
+ "fetched_at": "2026-11-27T13:44:08+00:00",
  "pages": {
   "/": {
    "images": [
@@ -320,6 +320,78 @@
      "price": 19.96,
      "sku": "",
      "title": "Default Title"
+    }
+   },
+   "vendor": "Khaial Perfumes"
+  },
+  "10367378555049": {
+   "created_at": "2026-11-26T15:57:11+02:00",
+   "description": "Bold, magnetic and unapologetically powerful. Rich warmth, seductive sweetness and intense masculine depth. Top Notes: Cherry and Mandarin Orange Middle Notes: Spices and Lavender Base Notes: Vanilla, Chestnut and Amberwood",
+   "handle": "stronger-with-you-powerfully",
+   "id": "10367378555049",
+   "images": [
+    "/s/files/1/0653/7999/1721/files/Strongerwithyoupowerfully.png"
+   ],
+   "published_at": "2026-11-27T15:04:24+02:00",
+   "tags": [],
+   "title": "Stronger With You Powerfully",
+   "type": "For Him",
+   "url": "https://khaialperfumes.com/products/stronger-with-you-powerfully",
+   "variants": {
+    "120ml": {
+     "available": true,
+     "compare_at": null,
+     "price": 24.99,
+     "sku": "",
+     "title": "120ml"
+    }
+   },
+   "vendor": "Khaial Perfumes"
+  },
+  "10368404062377": {
+   "created_at": "2026-11-27T15:00:28+02:00",
+   "description": "A bold blend of honeyed lavender and warm tobacco over smooth vanilla and tonka bean. Rich, sweet, and irresistibly sophisticated, a luxurious niche scent that commands attention wherever you walk in. Top Notes: Lavender, Bergamot and Lemon Middle Note: Honey, Cinnamon, Cashmeran and Jasmine Sambac Base Notes: Tobacco Leaf, Vanilla and Tonka Bean",
+   "handle": "xerjoff-naxos",
+   "id": "10368404062377",
+   "images": [
+    "/s/files/1/0653/7999/1721/files/Xerjoffnaxos.png"
+   ],
+   "published_at": "2026-11-27T15:00:29+02:00",
+   "tags": [],
+   "title": "Xerjoff Naxos",
+   "type": "Unisex",
+   "url": "https://khaialperfumes.com/products/xerjoff-naxos",
+   "variants": {
+    "120ml": {
+     "available": true,
+     "compare_at": null,
+     "price": 24.99,
+     "sku": "",
+     "title": "120ml"
+    }
+   },
+   "vendor": "Khaial Perfumes"
+  },
+  "10368423166121": {
+   "created_at": "2026-11-27T15:15:25+02:00",
+   "description": "Exotic passion fruit and rich oud layered over warm amber, leather, and smooth woods. Bold, fruity, and irresistibly opulent, a powerful niche fragrance that turns heads and leaves an unforgettable trail. Top Notes: Passionfruit, Fruity Notes, Saffron and Turkish Rose Middle Notes: Agarwood (Oud), Benzoin and Indonesian Patchouli Leaf Base Notes: Leather, Akigalawood, Amber, Vanilla and Labdanum.",
+   "handle": "oud-maracuja",
+   "id": "10368423166121",
+   "images": [
+    "/s/files/1/0653/7999/1721/files/Oud_maracuja_product.png"
+   ],
+   "published_at": "2026-11-27T15:23:32+02:00",
+   "tags": [],
+   "title": "Oud Maracuja",
+   "type": "Unisex",
+   "url": "https://khaialperfumes.com/products/oud-maracuja",
+   "variants": {
+    "120ml": {
+     "available": true,
+     "compare_at": null,
+     "price": 24.99,
+     "sku": "",
+     "title": "120ml"
     }
    },
    "vendor": "Khaial Perfumes"
@@ -2706,7 +2778,7 @@
    "handle": "black-afgano",
    "id": "8871412662441",
    "images": [
-    "/s/files/1/0653/7999/1721/files/black-afgano.png"
+    "/s/files/1/0653/7999/1721/files/BlackAfgano.png"
    ],
    "published_at": "2026-10-24T15:35:18+03:00",
    "tags": [],
@@ -2715,7 +2787,7 @@
    "url": "https://khaialperfumes.com/products/black-afgano",
    "variants": {
     "120ml": {
-     "available": false,
+     "available": true,
      "compare_at": null,
      "price": 24.99,
      "sku": "",
@@ -2754,7 +2826,7 @@
    "handle": "mancera-coco-vanille",
    "id": "8871426556073",
    "images": [
-    "/s/files/1/0653/7999/1721/files/coco-vanille-for-women.png"
+    "/s/files/1/0653/7999/1721/files/ManceraCocoVanille.png"
    ],
    "published_at": "2026-03-09T07:48:55+02:00",
    "tags": [],
@@ -2912,8 +2984,8 @@
    "good-girl",
    "la-vie-est-belle",
    "narciso-rodriguez-for-her",
-   "invictus",
    "black-orchid-tom-ford",
+   "invictus",
    "le-male-elixir",
    "1-million",
    "gucci-oud",
@@ -2960,8 +3032,8 @@
    "imagination",
    "azzaro-the-most-wanted",
    "tom-ford-oud-wood",
-   "miss-dior",
    "valentino-uomo-born-in-roma",
+   "miss-dior",
    "dior-homme-intense",
    "tom-ford-tobacco-vanille",
    "valentino-donna-born-in-roma",
@@ -2984,7 +3056,10 @@
    "mancera-coco-vanille",
    "narciso-rodriguez-pure-musc-for-her",
    "l-homme-ideal-guerlain",
-   "black-afgano"
+   "black-afgano",
+   "oud-maracuja",
+   "xerjoff-naxos",
+   "stronger-with-you-powerfully"
   ],
   "body-splash": [
    "the-bloom-set-4-body-splashes-for-her",
